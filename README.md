@@ -17,6 +17,8 @@ Windows 95 (8/24本日アメリカ発売日)
 
 Flash 
 
+Javaアプレット
+
 ### 4月
 
 Yahoo Japan
@@ -96,6 +98,8 @@ Mixi
 
 NHN(ハンゲーム エンコリ LINE)
 
+Yahoo!ジオシティーズ
+
 ### 5月
 
 HEXAGON(1999年かも)
@@ -154,6 +158,10 @@ Facebook
 
 Yahoo!知恵袋
 
+### 7月
+
+Ruby on Rails
+
 ## 2005年
 
 WEB 2.0
@@ -181,6 +189,10 @@ Twitter
 ### 1月
 
 iPhone
+
+### 9月
+
+Silverlight
 
 ## 2011年
 
