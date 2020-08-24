@@ -17,6 +17,10 @@ PlayStation
 
 mp3 
 
+### 6月
+
+Personal Home Page Tools(後のPHP)
+
 ### 11月
 
 Windows 95 (8/24本日アメリカ発売日)
@@ -148,6 +152,10 @@ iPod
 
 Winny
 
+### 9月
+
+Firefox
+
 ## 2003年
 
 ### 4月
@@ -174,6 +182,8 @@ Facebook
 
 Yahoo!知恵袋
 
+Gmail
+
 ### 7月
 
 Ruby on Rails
@@ -190,7 +200,13 @@ Youtube
 
 のまネコ問題
 
+はてなブックマーク(β公開)
+
 ## 2006年
+
+### 1月
+
+jQuery
 
 ### 7月
 
@@ -210,8 +226,20 @@ iPhone
 
 Silverlight
 
+## 2008年
+
+### 9月
+
+Android
+
 ## 2011年
 
 ### 6月
 
 LINE
+
+## 2014年
+
+### 10月
+
+HTML5勧告
