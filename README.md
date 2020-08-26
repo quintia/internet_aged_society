@@ -115,293 +115,287 @@
 
 ### 7月 
 
-Amazon
+* Amazon
 
 ### 11月
 
-セガサターン
+* セガサターン
 
 ### 12月
 
-PlayStation
+* PlayStation
 
 ## 1995年
 
-mp3 
+* mp3 
 
 ### 6月
 
-Personal Home Page Tools(後のPHP)
+* Personal Home Page Tools(後のPHP)
 
 ### 8月
 
-Internet Explorer
+* Internet Explorer
 
 ### 11月
 
-Windows 95 (8/24本日アメリカ発売日)
-
+* Windows 95 (8/24本日アメリカ発売日)
 
 ## 1996年
 
-Flash 
-
-Javaアプレット
+* Flash 
+* Javaアプレット
 
 ### 4月
 
-Yahoo Japan
+* Yahoo Japan
 
 ### 11月
 
-ICQ
+* ICQ
 
 ### 12月
 
-CSS1勧告
-
-Happy Hacking Keyboard
+* CSS1勧告
+* Happy Hacking Keyboard
 
 ## 1997年
 
 ### 1月
 
-PostPet
+* PostPet
 
 ### 2月
 
-楽天
+* 楽天
 
 ### 8月
 
-エキサイト
-
-あめぞう
+* エキサイト
+* あめぞう
 
 ### 9月
 
-ウルティマオンライン
+* ウルティマオンライン
 
 ### 10月
 
-エイジ オブ エンパイア
+* エイジ オブ エンパイア
 
 ### 11月
 
-世界最強の危険リンク集  
-(類似・時期不明)宇宙最強リンク集、日本海溝
+* 世界最強の危険リンク集   (類似・時期不明)宇宙最強リンク集、日本海溝
 
 ## 1998年
 
 ### 3月
 
-サイバーエージェント
+* サイバーエージェント
 
 ### 4月
 
-Tripod
+* Tripod
 
 ### 6月
 
-BM98
+* BM98
 
 ### 7月
 
-Windows 98
+* Windows 98
 
 ### 9月
 
-google
+* google
 
 ### 11月
 
-インフォシーク
-
-ドリームキャスト
+* インフォシーク
+* ドリームキャスト
 
 ## 1999年
 
 ### 1月
 
-ろじっくぱらだいす
+* ろじっくぱらだいす
 
 ### 2月
 
-iモード
+* iモード
 
 ### 5月
 
-ナップスター
+* ナップスター
 
-2ch
+* 2ch
 
 ### 6月
 
-Mixi
+* Mixi
 
 ### 7月
 
-MSNメッセンジャー
+* MSNメッセンジャー
 
 ### 8月
 
-ライブドア(→2002年 オン・ザ・エッヂ、ホリエモン)
+* ライブドア(→2002年 オン・ザ・エッヂ、ホリエモン)
 
 ### 9月
-エイジ オブ エンパイアII：エイジ オブ キング
+
+* エイジ オブ エンパイアII：エイジ オブ キング
 
 ## 2000年
 
-NHN(ハンゲーム エンコリ LINE)
-
-Yahoo!ジオシティーズ
+* NHN(ハンゲーム エンコリ LINE)
+* Yahoo!ジオシティーズ
 
 ### 3月
 
-PlayStation 2
+* PlayStation 2
 
 ### 5月
 
-HEXAGON(1999年かも)
+* HEXAGON(1999年かも)
+
+### 11月
+
+* 三上氏、テキスト系サイトをオープンする(11日)
 
 ### 12月
 
-WEB+DB Press
-
-PSO
+* WEB+DB Press
+* PSO
 
 ### 2001年
 
-WinMX 
-
-Jakarta Struts
+* WinMX 
+* Jakarta Struts
 
 ### 1月
 
-侍魂
+* 侍魂
 
 ### 2月
 
-ちゆ12歳
+* ちゆ12歳
 
 ### 3月
 
-先行者
+* 先行者
 
 ### 7月
 
-探偵ファイル
+* 探偵ファイル
 
 ### 10月
 
-iPod
+* iPod
 
 ## 2002年
 
 ### 5月
 
-Winny
+* Winny
 
 ### 9月
 
-Firefox
-
-ファイナルファンタジーXI
+* Firefox
+* ファイナルファンタジーXI
 
 ### 8月
 
-東方紅魔郷(Windows版東方Projectの第一弾)
+* 東方紅魔郷(Windows版東方Projectの第一弾)
 
 ## 2003年
 
 ### 1月
 
-Safari
+* Safari
 
 ### 4月
 
-セカンドライフ
+* セカンドライフ
 
 ### 8月
 
-マイスペース
-
-Seasarプロジェクト
+* マイスペース
+* Seasarプロジェクト
 
 ## 2004年
 
 ### 2月
 
-Facebook
+* Facebook
 
 ### 3月
 
-電車男
+* 電車男
 
 ### 4月
 
-Yahoo!知恵袋
+* Yahoo!知恵袋
 
-Gmail
+* Gmail
 
 ### 7月
 
-Ruby on Rails
+* Ruby on Rails
 
 ## 2005年
 
-WEB 2.0
+* WEB 2.0
 
 ### 2月
 
-Youtube
+* Youtube
 
 ### 8月
 
-のまネコ問題
+* のまネコ問題
 
-はてなブックマーク(β公開)
+* はてなブックマーク(β公開)
 
 ## 2006年
 
 ### 1月
 
-jQuery
+* jQuery
 
 ### 7月
 
-Twitter
+* Twitter
 
 ### 12月
 
-ニコニコ動画
+* ニコニコ動画
 
 ## 2007年
 
 ### 1月
 
-iPhone
+* iPhone
 
 ### 9月
 
-Silverlight
+* Silverlight
 
 ## 2008年
 
 ### 9月
 
-Android
+* Android
 
-Google Chrome
+* Google Chrome
 
 ## 2011年
 
 ### 6月
 
-LINE
+* LINE
 
 ## 2014年
 
 ### 10月
 
-HTML5勧告
+* HTML5勧告
