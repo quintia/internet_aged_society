@@ -9,11 +9,16 @@
 <body>
 <div class="wrapper">
   <header>
-    {{page.title}}
-    <ul>
-      <li class="navbar"><a href="#" onclick="viewlist()">すべて</a> </li>
-      <li class="navbar"><a href="#" onclick="viewlist('game')">ゲーム</a> </li>
-      <li class="navbar"><a href="#" onclick="viewlist('manga')">漫画</a> </li>
+    <p>{{ page.title }}</p>
+    <img src='{{ "/assets/img/msl-logo.png" | relative_url }}' alt="Logo" />
+    <ul class="navbar">
+      <li><a href="#" onclick="viewlist()">ALL<strong>すべて表示</strong></a> </li>
+      <li><a href="#" onclick="viewlist('off')">OFF<strong>すべて消す</strong></a> </li>
+    </ul>
+    <ul class="navbar">
+      <li><a href="#" onclick="viewlist('game')">ゲーム<strong><img src="images/game.png"></strong></a></li>
+      <li><a href="#" onclick="viewlist('manga')">漫画<strong><img src="images/manga.png"></strong></a> </li>
+      <li><a href="#" onclick="viewlist('anime')">アニメ<strong><img src="images/anime.png"></strong></a> </li>
     </ul>
   </header>
   <section>
@@ -26,22 +31,20 @@
 </div>
 <script type="text/javascript">
   function viewlist(category = "all") {
-    // let nodes = document.getElementsByTagName("li");
-    let nodes = document.getElementsByTagName("li");
+    let root = document.getElementsByTagName("section")[0];
+    let nodes = root.getElementsByTagName("li");
     for (let i = 0; i < nodes.length; i++) {
       var tag = nodes[i];
-      if (tag.className === "navbar")
-        continue;
       if (category === "all") {
         tag.style.display = "list-item";
+      }
+      else if (category === "off") {
+        tag.style.display = "none";
       }
       else {
         var img = tag.firstChild
         if (img != null && img.tagName === "IMG" && img.alt === category) {
           tag.style.display = "list-item";
-        }
-        else {
-          tag.style.display = "none";
         }
       }
     }

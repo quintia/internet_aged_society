@@ -10,6 +10,8 @@ title: 南町通りレイディオ
 * [ARPANET](https://ja.wikipedia.org/wiki/ARPANET) 稼働開始
 * [UNIX](https://ja.wikipedia.org/wiki/UNIX) 誕生
 
+---
+
 ## 1972年
 
 * [Emacs](https://ja.wikipedia.org/wiki/Emacs) 開発
@@ -40,6 +42,8 @@ title: 南町通りレイディオ
 ## 1979年
 
 * NEC [PC-8001](https://ja.wikipedia.org/wiki/PC-8000シリーズ) 発売
+
+---
 
 ## 1980年
 
@@ -121,7 +125,7 @@ title: 南町通りレイディオ
 
 * ![game](images/game.png) [YsⅡ](https://ja.wikipedia.org/wiki/イースII) 発売
 * [MSX2+](https://ja.wikipedia.org/wiki/MSX2%2B) 発売開始
-* PCエンジン CD-ROM2 発売
+* ![game](images/game.png) PCエンジン CD-ROM2 発売
 * ![game](images/game.png) [メガドライブ](https://ja.wikipedia.org/wiki/メガドライブ) 発売
 * ![game](images/game.png) [ニンジャウォーリアーズ](https://ja.wikipedia.org/wiki/ニンジャウォーリアーズ) 稼働開始
 * ![game](images/game.png) [pop'n music](https://ja.wikipedia.org/wiki/Pop%27n_music) 稼働開始
@@ -131,12 +135,14 @@ title: 南町通りレイディオ
 
 * 昭和天皇崩御
 * DoGA [CGAコンテスト](https://ja.wikipedia.org/wiki/プロジェクトチームDoGA) 開催開始
-* 映画「機動警察パトレイバー the Movie」公開
+* ![anime](images/anime.png) 映画「機動警察パトレイバー the Movie」公開
 * ![game](images/game.png) [電脳学園](https://ja.wikipedia.org/wiki/電脳学園) 発売
 * [World Wide Web](https://ja.wikipedia.org/wiki/World_Wide_Web) 発明
 * ![manga](images/manga.png) [攻殻機動隊](https://ja.wikipedia.org/wiki/攻殻機動隊) ヤンマガ初出
 * ![game](images/game.png) [ゲームボーイ](https://ja.wikipedia.org/wiki/ゲームボーイ) 発売
 * 富士通 [FM TOWNS](https://ja.wikipedia.org/wiki/FM_TOWNS) 発売
+
+---
 
 ## 1990年
 
@@ -168,7 +174,7 @@ title: 南町通りレイディオ
 ## 1993年
 
 * シャープ X68030 Compact発売
-* 映画「機動警察パトレイバー２ the Movie」公開
+* ![anime](images/anime.png) 映画「機動警察パトレイバー２ the Movie」公開
 * ![game](images/game.png) [バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター) 稼働開始
 * [NCSA Mosaic](https://ja.wikipedia.org/wiki/NCSA_Mosaic) リリース
 * [IRC](https://ja.wikipedia.org/wiki/Internet_Relay_Chat) 仕様公開
@@ -224,7 +230,6 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [NINTENDO64](https://ja.wikipedia.org/wiki/NINTENDO64) 発売
 * [HTTP/1.0](https://ja.wikipedia.org/wiki/Hypertext_Transfer_Protocol#HTTP/0.9) 仕様公開
 * ![game](images/game.png) [ピピンアットマーク](https://ja.wikipedia.org/wiki/ピピンアットマーク) 発売
-
 * Flash 
 * Javaアプレット
 
@@ -308,7 +313,6 @@ title: 南町通りレイディオ
 ### 5月
 
 * ナップスター
-
 * 2ch
 
 ### 6月
@@ -326,6 +330,8 @@ title: 南町通りレイディオ
 ### 9月
 
 * エイジ オブ エンパイアII：エイジ オブ キング
+
+---
 
 ## 2000年
 
@@ -417,7 +423,6 @@ title: 南町通りレイディオ
 ### 4月
 
 * Yahoo!知恵袋
-
 * Gmail
 
 ### 7月
@@ -435,7 +440,6 @@ title: 南町通りレイディオ
 ### 8月
 
 * のまネコ問題
-
 * はてなブックマーク(β公開)
 
 ## 2006年
