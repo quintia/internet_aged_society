@@ -119,7 +119,6 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [メタルギア](https://ja.wikipedia.org/wiki/メタルギア) 発売
 * ![game](images/game.png) [PCエンジン](https://ja.wikipedia.org/wiki/PCエンジン) 発売
 * [Amiga 500](https://ja.wikipedia.org/wiki/Amiga) 発売
-* ![game](images/game.png) [beatmania](https://ja.wikipedia.org/wiki/Beatmania) 稼働開始
 
 ## 1988年
 
@@ -128,8 +127,6 @@ title: 南町通りレイディオ
 * ![game](images/game.png) PCエンジン CD-ROM2 発売
 * ![game](images/game.png) [メガドライブ](https://ja.wikipedia.org/wiki/メガドライブ) 発売
 * ![game](images/game.png) [ニンジャウォーリアーズ](https://ja.wikipedia.org/wiki/ニンジャウォーリアーズ) 稼働開始
-* ![game](images/game.png) [pop'n music](https://ja.wikipedia.org/wiki/Pop%27n_music) 稼働開始
-* ![game](images/game.png) [Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution) 稼働開始
 
 ## 1989年
 
@@ -248,6 +245,8 @@ title: 南町通りレイディオ
 
 ## 1997年
 
+* ![game](images/game.png) [beatmania](https://ja.wikipedia.org/wiki/Beatmania) 稼働開始
+
 ### 1月
 
 * PostPet
@@ -274,6 +273,9 @@ title: 南町通りレイディオ
 * 世界最強の危険リンク集   (類似・時期不明)宇宙最強リンク集、日本海溝
 
 ## 1998年
+
+* ![game](images/game.png) [pop'n music](https://ja.wikipedia.org/wiki/Pop%27n_music) 稼働開始
+* ![game](images/game.png) [Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution) 稼働開始
 
 ### 3月
 
@@ -473,6 +475,8 @@ title: 南町通りレイディオ
 * Android
 
 * Google Chrome
+
+---
 
 ## 2011年
 
