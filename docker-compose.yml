@@ -4,6 +4,6 @@ services:
     image: jekyll/jekyll:pages
     command: jekyll serve --force_polling
     volumes:
-      - $PWD:/srv/jekyll
+      - ./:/srv/jekyll
     ports:
       - 4000:4000
