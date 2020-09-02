@@ -20,28 +20,38 @@ title: 南町通りレイディオ
 ## 1973年
 
 * [TCP/IP](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート) 仕様公開
+* ![anime](images/anime.png) まんが劇場「山ねずみロッキーチャック」
+
+## 1974年
+
+* ![anime](images/anime.png) まんが劇場「アルプスの少女ハイジ」
+
+## 1975年
+
+* ![anime](images/anime.png) こども劇場「フランダースの犬」
 
 ## 1976年
 
 * [I/O](https://ja.wikipedia.org/wiki/I/O_(雑誌)) 創刊
 * [vi](https://ja.wikipedia.org/wiki/Vi) 開発
+* ![anime](images/anime.png) こども劇場「母をたずねて三千里」
 
 ## 1977年
 
 * [月刊アスキー](https://ja.wikipedia.org/wiki/月刊アスキー) 創刊
 * [月刊マイコン](https://ja.wikipedia.org/wiki/月刊マイコン) 創刊
-
-## 1977年
-
 * [Usenet](https://ja.wikipedia.org/wiki/ネットニュース) 発足
+* ![anime](images/anime.png) こども劇場「あらいぐまラスカル」
 
 ## 1978年
 
 * シャープ [MZ-80K](https://ja.wikipedia.org/wiki/MZ-80) 発売
+* ![anime](images/anime.png) ファミリー劇場「ペリーヌ物語」
 
 ## 1979年
 
 * NEC [PC-8001](https://ja.wikipedia.org/wiki/PC-8000シリーズ) 発売
+* ![anime](images/anime.png) 世界名作劇場「赤毛のアン」
 
 ---
 
@@ -50,6 +60,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ゲーム＆ウオッチ](https://ja.wikipedia.org/wiki/ゲーム%26ウオッチ) 発売
 * ![game](images/game.png) [ミステリーハウス](https://ja.wikipedia.org/wiki/ミステリーハウス) 発売
 * [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
+* ![anime](images/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
 
 ## 1981年
 
@@ -58,6 +69,7 @@ title: 南町通りレイディオ
 * NEC [PC-6001](https://ja.wikipedia.org/wiki/PC-6000シリーズ) 発売
 * NEC [PC-8801](https://ja.wikipedia.org/wiki/PC-8800シリーズ) 発売
 * 富士通 [FM-8](https://ja.wikipedia.org/wiki/FM-8) 発売
+* ![anime](images/anime.png) 世界名作劇場「ふしぎな島のフローネ」
 
 ## 1982年
 
@@ -69,6 +81,7 @@ title: 南町通りレイディオ
 * トミー [ぴゅう太](https://ja.wikipedia.org/wiki/ぴゅう太) 発売
 * NEC [PC-9801](https://ja.wikipedia.org/wiki/PC-9800シリーズ) 発売
 * シャープ [X1](https://ja.wikipedia.org/wiki/X1_(コンピュータ)) 発売
+* ![anime](images/anime.png) 世界名作劇場「南の虹のルーシー」
 
 ## 1983年
 
@@ -82,6 +95,7 @@ title: 南町通りレイディオ
 * [DNS](https://ja.wikipedia.org/wiki/Domain_Name_System) 開発
 * [GNUプロジェクト](https://ja.wikipedia.org/wiki/GNU) 開始
 * [C++](https://ja.wikipedia.org/wiki/C%2B%2B) 誕生
+* ![anime](images/anime.png) 世界名作劇場「あたしのアンネット」
 
 
 ## 1984年
@@ -90,6 +104,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ドラゴンスレイヤー](https://ja.wikipedia.org/wiki/ドラゴンスレイヤー_(ゲーム)) 発売
 * [JUNET](https://ja.wikipedia.org/wiki/JUNET) 発足
 * 富士通 [FM-7](https://ja.wikipedia.org/wiki/FM-7) 発売
+* ![anime](images/anime.png) 世界名作劇場「牧場の少女カトリ」
 
 ## 1985年
 
@@ -101,6 +116,7 @@ title: 南町通りレイディオ
 * [MS-Windows 1.0](https://ja.wikipedia.org/wiki/Microsoft_Windows) リリース
 * ![game](images/game.png) [スーパーマリオブラザーズ](https://ja.wikipedia.org/wiki/スーパーマリオブラザーズ) 発売
 * ![game](images/game.png) [セガ・マークIII](https://ja.wikipedia.org/wiki/セガ・マークIII) 発売
+* ![anime](images/anime.png) 世界名作劇場「小公女セーラ」
 
 ## 1986年
 
@@ -110,6 +126,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ロマンシア](https://ja.wikipedia.org/wiki/ロマンシア) 発売
 * ![game](images/game.png) [ダライアス](https://ja.wikipedia.org/wiki/ダライアス) 稼働開始
 * ![game](images/game.png) [ドラゴンクエスト](https://ja.wikipedia.org/wiki/ドラゴンクエスト) 発売
+* ![anime](images/anime.png) 世界名作劇場「愛少女ポリアンナ物語」
 
 ## 1987年
 
@@ -119,6 +136,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [メタルギア](https://ja.wikipedia.org/wiki/メタルギア) 発売
 * ![game](images/game.png) [PCエンジン](https://ja.wikipedia.org/wiki/PCエンジン) 発売
 * [Amiga 500](https://ja.wikipedia.org/wiki/Amiga) 発売
+* ![anime](images/anime.png) 世界名作劇場「愛の若草物語」
 
 ## 1988年
 
@@ -127,6 +145,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) PCエンジン CD-ROM2 発売
 * ![game](images/game.png) [メガドライブ](https://ja.wikipedia.org/wiki/メガドライブ) 発売
 * ![game](images/game.png) [ニンジャウォーリアーズ](https://ja.wikipedia.org/wiki/ニンジャウォーリアーズ) 稼働開始
+* ![anime](images/anime.png) 世界名作劇場「小公子セディ」
 
 ## 1989年
 
@@ -138,6 +157,7 @@ title: 南町通りレイディオ
 * ![manga](images/manga.png) [攻殻機動隊](https://ja.wikipedia.org/wiki/攻殻機動隊) ヤンマガ初出
 * ![game](images/game.png) [ゲームボーイ](https://ja.wikipedia.org/wiki/ゲームボーイ) 発売
 * 富士通 [FM TOWNS](https://ja.wikipedia.org/wiki/FM_TOWNS) 発売
+* ![anime](images/anime.png) 世界名作劇場「ピーターパンの冒険」
 
 ---
 
@@ -151,6 +171,7 @@ title: 南町通りレイディオ
 * [MS-Windows 3.0](https://ja.wikipedia.org/wiki/Microsoft_Windows_3.x) リリース
 * [DOS/V機](https://ja.wikipedia.org/wiki/DOS/V) 登場
 * [アインシュタインTV](https://ja.wikipedia.org/wiki/アインシュタイン) 放送開始
+* ![anime](images/anime.png) 世界名作劇場「私のあしながおじさん」
 
 ## 1991年
 
@@ -161,12 +182,14 @@ title: 南町通りレイディオ
 * [Linux](https://ja.wikipedia.org/wiki/Linux#歴史) 誕生
 * [Visual Basic](https://ja.wikipedia.org/wiki/Visual_Basic) 誕生
 * [Python](https://ja.wikipedia.org/wiki/Python) 誕生
+* ![anime](images/anime.png) 世界名作劇場「トラップ一家物語」
 
 ## 1992年
 
 * ![game](images/game.png) [V.R.バーチャレーシング](https://ja.wikipedia.org/wiki/バーチャレーシング) 稼働開始
 * ![game](images/game.png) [餓狼伝説2](https://ja.wikipedia.org/wiki/餓狼伝説2) 稼働開始
 * [ウゴウゴルーガ](https://ja.wikipedia.org/wiki/ウゴウゴルーガ) 放送開始
+* ![anime](images/anime.png) 世界名作劇場「大草原の小さな天使ブッシュベイビー」
 
 ## 1993年
 
@@ -178,6 +201,7 @@ title: 南町通りレイディオ
 * [HTML 1.0](https://ja.wikipedia.org/wiki/HyperText_Markup_Language#HTML_1.0、HTML+) 仕様公開
 * ![game](images/game.png) [MYST](https://ja.wikipedia.org/wiki/MYST) 発売
 * [Macromedia Shockwave Player](https://en.wikipedia.org/wiki/Adobe_Shockwave) リリース
+* ![anime](images/anime.png) 世界名作劇場「若草物語ナンとジョー先生」
 
 ## 1994年
 
@@ -189,6 +213,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [鉄拳](https://ja.wikipedia.org/wiki/鉄拳_(ゲーム)) 稼働開始
 * ![game](images/game.png) [3DO](https://ja.wikipedia.org/wiki/3DO) 発売
 * Netscape Navigator
+* ![anime](images/anime.png) 世界名作劇場「七つの海のティコ」
 
 ### 7月 
 
@@ -209,6 +234,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [Dの食卓](https://ja.wikipedia.org/wiki/Dの食卓) 発売
 * [テレホーダイ](https://ja.wikipedia.org/wiki/テレホーダイ) サービス開始
 * mp3 
+* ![anime](images/anime.png) 世界名作劇場「ロミオの青い空」
 
 ### 6月
 
@@ -229,6 +255,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ピピンアットマーク](https://ja.wikipedia.org/wiki/ピピンアットマーク) 発売
 * Flash 
 * Javaアプレット
+* ![anime](images/anime.png) 世界名作劇場「名犬ラッシー」
 
 ### 4月
 
@@ -246,6 +273,7 @@ title: 南町通りレイディオ
 ## 1997年
 
 * ![game](images/game.png) [beatmania](https://ja.wikipedia.org/wiki/Beatmania) 稼働開始
+* ![anime](images/anime.png) 世界名作劇場「家なき子レミ」
 
 ### 1月
 
@@ -460,6 +488,8 @@ title: 南町通りレイディオ
 
 ## 2007年
 
+* ![anime](images/anime.png) 世界名作劇場「レ・ミゼラブル少女コゼット」
+
 ### 1月
 
 * iPhone
@@ -470,11 +500,16 @@ title: 南町通りレイディオ
 
 ## 2008年
 
+* ![anime](images/anime.png) 世界名作劇場「ポルフィの長い旅」
+
 ### 9月
 
 * Android
-
 * Google Chrome
+
+## 2009年
+
+* ![anime](images/anime.png) 世界名作劇場「こんにちはアン〜Before Green Gables」
 
 ---
 
