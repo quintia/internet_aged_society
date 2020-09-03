@@ -16,6 +16,7 @@ title: 南町通りレイディオ
 
 * [Emacs](https://ja.wikipedia.org/wiki/Emacs) 開発
 * [C言語](https://ja.wikipedia.org/wiki/C言語) 誕生
+* ![anime](images/anime.png) 「マジンガーZ」
 
 ## 1973年
 
@@ -25,16 +26,23 @@ title: 南町通りレイディオ
 ## 1974年
 
 * ![anime](images/anime.png) まんが劇場「アルプスの少女ハイジ」
+* ![anime](images/anime.png) 「グレートマジンガー」
+* ![anime](images/anime.png) 「ゲッターロボ」
 
 ## 1975年
 
 * ![anime](images/anime.png) こども劇場「フランダースの犬」
+* ![anime](images/anime.png) 「UFOロボ グレンダイザー」
+* ![anime](images/anime.png) 「ゲッターロボG」
+* ![anime](images/anime.png) 「鋼鉄ジーグ」
 
 ## 1976年
 
 * [I/O](https://ja.wikipedia.org/wiki/I/O_(雑誌)) 創刊
 * [vi](https://ja.wikipedia.org/wiki/Vi) 開発
 * ![anime](images/anime.png) こども劇場「母をたずねて三千里」
+* ![anime](images/anime.png) 「大空魔竜ガイキング」
+* ![anime](images/anime.png) 「超電磁ロボ コン・バトラーV」
 
 ## 1977年
 
@@ -42,16 +50,21 @@ title: 南町通りレイディオ
 * [月刊マイコン](https://ja.wikipedia.org/wiki/月刊マイコン) 創刊
 * [Usenet](https://ja.wikipedia.org/wiki/ネットニュース) 発足
 * ![anime](images/anime.png) こども劇場「あらいぐまラスカル」
+* ![anime](images/anime.png) 「超電磁マシーン ボルテスV」
+* ![anime](images/anime.png) 「無敵超人ザンボット3」
 
 ## 1978年
 
 * シャープ [MZ-80K](https://ja.wikipedia.org/wiki/MZ-80) 発売
 * ![anime](images/anime.png) ファミリー劇場「ペリーヌ物語」
+* ![anime](images/anime.png) 「闘将ダイモス」
+* ![anime](images/anime.png) 「無敵鋼人ダイターン3」
 
 ## 1979年
 
 * NEC [PC-8001](https://ja.wikipedia.org/wiki/PC-8000シリーズ) 発売
 * ![anime](images/anime.png) 世界名作劇場「赤毛のアン」
+* ![anime](images/anime.png) 「機動戦士ガンダム」
 
 ---
 
@@ -61,6 +74,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ミステリーハウス](https://ja.wikipedia.org/wiki/ミステリーハウス) 発売
 * [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
 * ![anime](images/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
+* ![anime](images/anime.png) 「無敵ロボ トライダーG7」
 
 ## 1981年
 
@@ -70,6 +84,8 @@ title: 南町通りレイディオ
 * NEC [PC-8801](https://ja.wikipedia.org/wiki/PC-8800シリーズ) 発売
 * 富士通 [FM-8](https://ja.wikipedia.org/wiki/FM-8) 発売
 * ![anime](images/anime.png) 世界名作劇場「ふしぎな島のフローネ」
+* ![anime](images/anime.png) 「最強ロボ ダイオージャ」
+* ![anime](images/anime.png) 「太陽の牙ダグラム」
 
 ## 1982年
 
@@ -82,6 +98,9 @@ title: 南町通りレイディオ
 * NEC [PC-9801](https://ja.wikipedia.org/wiki/PC-9800シリーズ) 発売
 * シャープ [X1](https://ja.wikipedia.org/wiki/X1_(コンピュータ)) 発売
 * ![anime](images/anime.png) 世界名作劇場「南の虹のルーシー」
+* ![anime](images/anime.png) 「戦闘メカ ザブングル」
+* ![anime](images/anime.png) 「伝説巨神イデオン」
+* ![anime](images/anime.png) 「超時空要塞マクロス」
 
 ## 1983年
 
@@ -96,6 +115,9 @@ title: 南町通りレイディオ
 * [GNUプロジェクト](https://ja.wikipedia.org/wiki/GNU) 開始
 * [C++](https://ja.wikipedia.org/wiki/C%2B%2B) 誕生
 * ![anime](images/anime.png) 世界名作劇場「あたしのアンネット」
+* ![anime](images/anime.png) 「聖戦士ダンバイン」
+* ![anime](images/anime.png) 「装甲騎兵ボトムズ」
+* ![anime](images/anime.png) 「超時空世紀オーガス」
 
 
 ## 1984年
@@ -105,6 +127,8 @@ title: 南町通りレイディオ
 * [JUNET](https://ja.wikipedia.org/wiki/JUNET) 発足
 * 富士通 [FM-7](https://ja.wikipedia.org/wiki/FM-7) 発売
 * ![anime](images/anime.png) 世界名作劇場「牧場の少女カトリ」
+* ![anime](images/anime.png) 「重戦機エルガイム」
+* ![anime](images/anime.png) 「超時空騎団サザンクロス」
 
 ## 1985年
 
@@ -117,6 +141,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [スーパーマリオブラザーズ](https://ja.wikipedia.org/wiki/スーパーマリオブラザーズ) 発売
 * ![game](images/game.png) [セガ・マークIII](https://ja.wikipedia.org/wiki/セガ・マークIII) 発売
 * ![anime](images/anime.png) 世界名作劇場「小公女セーラ」
+* ![anime](images/anime.png) 「機動戦士Ζガンダム」
 
 ## 1986年
 
@@ -127,6 +152,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ダライアス](https://ja.wikipedia.org/wiki/ダライアス) 稼働開始
 * ![game](images/game.png) [ドラゴンクエスト](https://ja.wikipedia.org/wiki/ドラゴンクエスト) 発売
 * ![anime](images/anime.png) 世界名作劇場「愛少女ポリアンナ物語」
+* ![anime](images/anime.png) 「機動戦士ガンダムΖΖ」
 
 ## 1987年
 
@@ -137,6 +163,8 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [PCエンジン](https://ja.wikipedia.org/wiki/PCエンジン) 発売
 * [Amiga 500](https://ja.wikipedia.org/wiki/Amiga) 発売
 * ![anime](images/anime.png) 世界名作劇場「愛の若草物語」
+* ![anime](images/anime.png) 「機甲戦記ドラグナー」
+* ![anime](images/anime.png) 映画「王立宇宙軍 オネアミスの翼」公開
 
 ## 1988年
 
@@ -172,6 +200,7 @@ title: 南町通りレイディオ
 * [DOS/V機](https://ja.wikipedia.org/wiki/DOS/V) 登場
 * [アインシュタインTV](https://ja.wikipedia.org/wiki/アインシュタイン) 放送開始
 * ![anime](images/anime.png) 世界名作劇場「私のあしながおじさん」
+* ![anime](images/anime.png) 「ふしぎの海のナディア」
 
 ## 1991年
 
@@ -235,6 +264,7 @@ title: 南町通りレイディオ
 * [テレホーダイ](https://ja.wikipedia.org/wiki/テレホーダイ) サービス開始
 * mp3 
 * ![anime](images/anime.png) 世界名作劇場「ロミオの青い空」
+* ![anime](images/anime.png) 「新世紀エヴァンゲリオン」
 
 ### 6月
 
