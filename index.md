@@ -216,6 +216,7 @@ title: 南町通りレイディオ
 * [Visual Basic](https://ja.wikipedia.org/wiki/Visual_Basic) 誕生
 * [Python](https://ja.wikipedia.org/wiki/Python) 誕生
 * ![anime](images/anime.png) 世界名作劇場「トラップ一家物語」
+* バブル崩壊
 
 ## 1992年 - 平成4年
 
@@ -269,6 +270,10 @@ title: 南町通りレイディオ
 * mp3 
 * ![anime](images/anime.png) 世界名作劇場「ロミオの青い空」
 * ![anime](images/anime.png) 「新世紀エヴァンゲリオン」
+
+### 1月
+
+* 阪神淡路大震災発生
 
 ### 6月
 
@@ -538,6 +543,10 @@ title: 南町通りレイディオ
 
 ### 9月
 
+* リーマンショック
+
+### 9月
+
 * Android
 * Google Chrome
 
@@ -550,6 +559,10 @@ title: 南町通りレイディオ
 ## 2010年 - 平成22年
 
 ## 2011年 - 平成23年
+
+### 3月
+
+* 東日本大震災発生
 
 ### 6月
 
@@ -578,3 +591,7 @@ title: 南町通りレイディオ
 ---
 
 ## 2020年 - 令和2年
+
+### 1月
+
+* COVID-19 国内初感染者確認
