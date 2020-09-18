@@ -21,17 +21,20 @@ title: 南町通りレイディオ
 * [Emacs](https://ja.wikipedia.org/wiki/Emacs) 開発
 * [C言語](https://ja.wikipedia.org/wiki/C言語) 誕生
 * ![anime](images/anime.png) 「マジンガーZ」
+* ![anime](images/anime.png) 「科学忍者隊ガッチャマン」
 
 ## 1973年 - 昭和48年
 
 * [TCP/IP](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート) 仕様公開
 * ![anime](images/anime.png) まんが劇場「山ねずみロッキーチャック」
+* ![anime](images/anime.png) 「新造人間キャシャーン」
 
 ## 1974年 - 昭和49年
 
 * ![anime](images/anime.png) まんが劇場「アルプスの少女ハイジ」
 * ![anime](images/anime.png) 「グレートマジンガー」
 * ![anime](images/anime.png) 「ゲッターロボ」
+* ![anime](images/anime.png) 「破裏拳ポリマー」
 
 ## 1975年 - 昭和50年
 
@@ -65,6 +68,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) ファミリー劇場「ペリーヌ物語」
 * ![anime](images/anime.png) 「闘将ダイモス」
 * ![anime](images/anime.png) 「無敵鋼人ダイターン3」
+* ![anime](images/anime.png) 「科学忍者隊ガッチャマンⅡ」
 
 ## 1979年 - 昭和54年
 
@@ -72,6 +76,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「赤毛のアン」
 * ![anime](images/anime.png) 「機動戦士ガンダム」
 * ![anime](images/anime.png) 「ゼンダマン」
+* ![anime](images/anime.png) 「科学忍者隊ガッチャマンF」
 
 ---
 
@@ -129,6 +134,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「装甲騎兵ボトムズ」
 * ![anime](images/anime.png) 「超時空世紀オーガス」
 * ![anime](images/anime.png) 「イタダキマン」
+* ![anime](images/anime.png) 「未来警察ウラシマン」
 
 ## 1984年 - 昭和59年
 
@@ -569,6 +575,8 @@ title: 南町通りレイディオ
 
 ## 2013年 - 平成25年
 
+* ![anime](images/anime.png) 「ガッチャマン クラウズ」
+
 ## 2014年 - 平成26年
 
 ### 10月
@@ -576,6 +584,8 @@ title: 南町通りレイディオ
 * HTML5勧告
 
 ## 2015年 - 平成27年
+
+* ![anime](images/anime.png) 「ガッチャマン クラウズ インサイト」
 
 ## 2016年 - 平成28年
 
