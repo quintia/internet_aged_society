@@ -39,6 +39,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「UFOロボ グレンダイザー」
 * ![anime](images/anime.png) 「ゲッターロボG」
 * ![anime](images/anime.png) 「鋼鉄ジーグ」
+* ![anime](images/anime.png) 「タイムボカン」
 
 ## 1976年 - 昭和51年
 
@@ -56,6 +57,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) こども劇場「あらいぐまラスカル」
 * ![anime](images/anime.png) 「超電磁マシーン ボルテスV」
 * ![anime](images/anime.png) 「無敵超人ザンボット3」
+* ![anime](images/anime.png) 「ヤッターマン」
 
 ## 1978年 - 昭和53年
 
@@ -69,6 +71,7 @@ title: 南町通りレイディオ
 * NEC [PC-8001](https://ja.wikipedia.org/wiki/PC-8000シリーズ) 発売
 * ![anime](images/anime.png) 世界名作劇場「赤毛のアン」
 * ![anime](images/anime.png) 「機動戦士ガンダム」
+* ![anime](images/anime.png) 「ゼンダマン」
 
 ---
 
@@ -79,6 +82,7 @@ title: 南町通りレイディオ
 * [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
 * ![anime](images/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
 * ![anime](images/anime.png) 「無敵ロボ トライダーG7」
+* ![anime](images/anime.png) 「オタスケマン」
 
 ## 1981年 - 昭和56年
 
@@ -90,6 +94,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「ふしぎな島のフローネ」
 * ![anime](images/anime.png) 「最強ロボ ダイオージャ」
 * ![anime](images/anime.png) 「太陽の牙ダグラム」
+* ![anime](images/anime.png) 「ヤットデタマン」
 
 ## 1982年 - 昭和57年
 
@@ -105,6 +110,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「戦闘メカ ザブングル」
 * ![anime](images/anime.png) 「伝説巨神イデオン」
 * ![anime](images/anime.png) 「超時空要塞マクロス」
+* ![anime](images/anime.png) 「逆転イッパツマン」
 
 ## 1983年 - 昭和58年
 
@@ -122,6 +128,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「聖戦士ダンバイン」
 * ![anime](images/anime.png) 「装甲騎兵ボトムズ」
 * ![anime](images/anime.png) 「超時空世紀オーガス」
+* ![anime](images/anime.png) 「イタダキマン」
 
 ## 1984年 - 昭和59年
 
