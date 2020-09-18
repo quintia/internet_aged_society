@@ -119,6 +119,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「伝説巨神イデオン」
 * ![anime](images/anime.png) 「超時空要塞マクロス」
 * ![anime](images/anime.png) 「大戦隊ゴーグルファイブ」
+* ![anime](images/anime.png) 「宇宙刑事ギャバン」
 
 ## 1983年 - 昭和58年
 
@@ -137,6 +138,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「装甲騎兵ボトムズ」
 * ![anime](images/anime.png) 「超時空世紀オーガス」
 * ![anime](images/anime.png) 「科学戦隊ダイナマン」
+* ![anime](images/anime.png) 「宇宙刑事シャリバン」
 
 
 ## 1984年 - 昭和59年
@@ -149,6 +151,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「重戦機エルガイム」
 * ![anime](images/anime.png) 「超時空騎団サザンクロス」
 * ![anime](images/anime.png) 「超電子バイオマン」
+* ![anime](images/anime.png) 「宇宙刑事シャイダー」
 
 ## 1985年 - 昭和60年
 
