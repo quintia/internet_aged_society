@@ -94,6 +94,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「ふしぎな島のフローネ」
 * ![anime](images/anime.png) 「最強ロボ ダイオージャ」
 * ![anime](images/anime.png) 「太陽の牙ダグラム」
+* ![manga](images/manga.png) 「キャッツ・アイ」連載開始
 
 ## 1982年 - 昭和57年
 
@@ -153,6 +154,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「小公女セーラ」
 * ![anime](images/anime.png) 「機動戦士Ζガンダム」
 * ![manga](images/manga.png) 「パイナップルARMY」連載開始
+* ![manga](images/manga.png) 「シティハンター」連載開始
 
 ## 1986年 - 昭和61年
 
@@ -208,6 +210,7 @@ title: 南町通りレイディオ
 * ![manga](images/manga.png) 「DRAGON QUEST -ダイの大冒険-」連載開始
 * ![manga](images/manga.png) 「スプリガン」連載開始
 * ![manga](images/manga.png) 「ベルセルク」連載開始
+* ![manga](images/manga.png) 「はじめの一歩」連載開始
 
 ---
 
