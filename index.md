@@ -274,6 +274,10 @@ title: 南町通りレイディオ
 
 * Personal Home Page Tools(後のPHP)
 
+### 7月
+
+* ![game](images/game.png) [バーチャルボーイ](https://ja.wikipedia.org/wiki/バーチャルボーイ) 発売
+
 ### 8月
 
 * Internet Explorer
@@ -369,10 +373,15 @@ title: 南町通りレイディオ
 ### 1月
 
 * ろじっくぱらだいす
+* ![game](images/game.png) [PocketStation](https://ja.wikipedia.org/wiki/PocketStation) 発売
 
 ### 2月
 
 * iモード
+
+### 3月
+
+* ![game](images/game.png) [ワンダースワン](https://ja.wikipedia.org/wiki/ワンダースワン) 発売
 
 ### 5月
 
@@ -386,6 +395,7 @@ title: 南町通りレイディオ
 ### 7月
 
 * MSNメッセンジャー
+* ![game](images/game.png) [どこでもいっしょ](https://ja.wikipedia.org/wiki/どこでもいっしょ) 発売
 
 ### 8月
 
@@ -435,10 +445,15 @@ title: 南町通りレイディオ
 ### 3月
 
 * 先行者
+* ![game](images/game.png) [ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス) 発売
 
 ### 7月
 
 * 探偵ファイル
+
+### 9月
+
+* ![game](images/game.png) [ニンテンドーゲームキューブ](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ) 発売
 
 ### 10月
 
@@ -492,6 +507,11 @@ title: 南町通りレイディオ
 ### 7月
 
 * Ruby on Rails
+
+### 12月
+
+* ![game](images/game.png) [ニンテンドーDS](https://ja.wikipedia.org/wiki/ニンテンドーDS) 発売
+* ![game](images/game.png) [PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable) 発売
 
 ## 2005年 - 平成17年
 
@@ -550,6 +570,10 @@ title: 南町通りレイディオ
 ## 2010年 - 平成22年
 
 ## 2011年 - 平成23年
+
+### 2月
+
+* ![game](images/game.png) [ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS) 発売
 
 ### 6月
 
