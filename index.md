@@ -123,7 +123,6 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「装甲騎兵ボトムズ」
 * ![anime](images/anime.png) 「超時空世紀オーガス」
 
-
 ## 1984年 - 昭和59年
 
 * ニフティサーブ開設
@@ -133,6 +132,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「牧場の少女カトリ」
 * ![anime](images/anime.png) 「重戦機エルガイム」
 * ![anime](images/anime.png) 「超時空騎団サザンクロス」
+* ![anime](images/anime.png) 映画「超時空要塞マクロス 愛・おぼえていますか」公開
+* ![anime](images/anime.png) 映画「うる星やつら2 ビューティフル・ドリーマー」公開
 
 ## 1985年 - 昭和60年
 
@@ -178,6 +179,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [メガドライブ](https://ja.wikipedia.org/wiki/メガドライブ) 発売
 * ![game](images/game.png) [ニンジャウォーリアーズ](https://ja.wikipedia.org/wiki/ニンジャウォーリアーズ) 稼働開始
 * ![anime](images/anime.png) 世界名作劇場「小公子セディ」
+* ![anime](images/anime.png) 映画「機動戦士ガンダム 逆襲のシャア」公開
 
 ## 1989年 - 平成元年
 
@@ -216,6 +218,7 @@ title: 南町通りレイディオ
 * [Visual Basic](https://ja.wikipedia.org/wiki/Visual_Basic) 誕生
 * [Python](https://ja.wikipedia.org/wiki/Python) 誕生
 * ![anime](images/anime.png) 世界名作劇場「トラップ一家物語」
+* ![anime](images/anime.png) 映画「機動戦士ガンダムF91」公開
 
 ## 1992年 - 平成4年
 
