@@ -16,6 +16,8 @@ title: 南町通りレイディオ
 
 ## 1971年 - 昭和46年
 
+* ![anime](images/anime.png) 「仮面ライダー」
+
 ## 1972年 - 昭和47年
 
 * [Emacs](https://ja.wikipedia.org/wiki/Emacs) 開発
@@ -26,12 +28,15 @@ title: 南町通りレイディオ
 
 * [TCP/IP](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート) 仕様公開
 * ![anime](images/anime.png) まんが劇場「山ねずみロッキーチャック」
+* ![anime](images/anime.png) 「仮面ライダーV3」
 
 ## 1974年 - 昭和49年
 
 * ![anime](images/anime.png) まんが劇場「アルプスの少女ハイジ」
 * ![anime](images/anime.png) 「グレートマジンガー」
 * ![anime](images/anime.png) 「ゲッターロボ」
+* ![anime](images/anime.png) 「仮面ライダーX」
+* ![anime](images/anime.png) 「仮面ライダーアマゾン」
 
 ## 1975年 - 昭和50年
 
@@ -39,6 +44,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「UFOロボ グレンダイザー」
 * ![anime](images/anime.png) 「ゲッターロボG」
 * ![anime](images/anime.png) 「鋼鉄ジーグ」
+* ![anime](images/anime.png) 「仮面ライダーストロンガー」
 * ![anime](images/anime.png) 「秘密戦隊ゴレンジャー」
 
 ## 1976年 - 昭和51年
@@ -71,6 +77,7 @@ title: 南町通りレイディオ
 * NEC [PC-8001](https://ja.wikipedia.org/wiki/PC-8000シリーズ) 発売
 * ![anime](images/anime.png) 世界名作劇場「赤毛のアン」
 * ![anime](images/anime.png) 「機動戦士ガンダム」
+* ![anime](images/anime.png) 「仮面ライダー（スカイライダー）」
 * ![anime](images/anime.png) 「バトルフィーバーJ」
 
 ---
@@ -82,6 +89,7 @@ title: 南町通りレイディオ
 * [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
 * ![anime](images/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
 * ![anime](images/anime.png) 「無敵ロボ トライダーG7」
+* ![anime](images/anime.png) 「仮面ライダースーパー1」
 * ![anime](images/anime.png) 「電子戦隊デンジマン」
 
 ## 1981年 - 昭和56年
@@ -179,6 +187,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「愛の若草物語」
 * ![anime](images/anime.png) 「機甲戦記ドラグナー」
 * ![anime](images/anime.png) 映画「王立宇宙軍 オネアミスの翼」公開
+* ![anime](images/anime.png) 「仮面ライダーBLACK」
 * ![anime](images/anime.png) 「光戦隊マスクマン」
 
 ## 1988年 - 昭和63年
@@ -189,6 +198,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [メガドライブ](https://ja.wikipedia.org/wiki/メガドライブ) 発売
 * ![game](images/game.png) [ニンジャウォーリアーズ](https://ja.wikipedia.org/wiki/ニンジャウォーリアーズ) 稼働開始
 * ![anime](images/anime.png) 世界名作劇場「小公子セディ」
+* ![anime](images/anime.png) 「仮面ライダーBLACK RX」
 * ![anime](images/anime.png) 「超獣戦隊ライブマン」
 
 ## 1989年 - 平成元年
@@ -425,6 +435,7 @@ title: 南町通りレイディオ
 
 * NHN(ハンゲーム エンコリ LINE)
 * Yahoo!ジオシティーズ
+* ![anime](images/anime.png) 「仮面ライダークウガ」
 * ![anime](images/anime.png) 「未来戦隊タイムレンジャー」
 
 
@@ -449,6 +460,7 @@ title: 南町通りレイディオ
 
 * WinMX 
 * Jakarta Struts
+* ![anime](images/anime.png) 「仮面ライダーアギト」
 * ![anime](images/anime.png) 「百獣戦隊ガオレンジャー」
 
 ### 1月
@@ -473,6 +485,7 @@ title: 南町通りレイディオ
 
 ## 2002年 - 平成14年
 
+* ![anime](images/anime.png) 「仮面ライダー龍騎」
 * ![anime](images/anime.png) 「忍風戦隊ハリケンジャー」
 
 ### 5月
@@ -490,6 +503,7 @@ title: 南町通りレイディオ
 
 ## 2003年 - 平成15年
 
+* ![anime](images/anime.png) 「仮面ライダー555」
 * ![anime](images/anime.png) 「爆竜戦隊アバレンジャー」
 
 ### 1月
@@ -507,6 +521,7 @@ title: 南町通りレイディオ
 
 ## 2004年 - 平成16年
 
+* ![anime](images/anime.png) 「仮面ライダー剣」
 * ![anime](images/anime.png) 「特捜戦隊デカレンジャー」
 
 ### 2月
@@ -529,6 +544,7 @@ title: 南町通りレイディオ
 ## 2005年 - 平成17年
 
 * WEB 2.0
+* ![anime](images/anime.png) 「仮面ライダー響鬼」
 * ![anime](images/anime.png) 「魔法戦隊マジレンジャー」
 
 ### 2月
@@ -542,6 +558,7 @@ title: 南町通りレイディオ
 
 ## 2006年 - 平成18年
 
+* ![anime](images/anime.png) 「仮面ライダーカブト」
 * ![anime](images/anime.png) 「轟轟戦隊ボウケンジャー」
 
 ### 1月
@@ -559,6 +576,7 @@ title: 南町通りレイディオ
 ## 2007年 - 平成19年
 
 * ![anime](images/anime.png) 世界名作劇場「レ・ミゼラブル少女コゼット」
+* ![anime](images/anime.png) 「仮面ライダー電王」
 * ![anime](images/anime.png) 「獣拳戦隊ゲキレンジャー」
 
 ### 1月
@@ -572,6 +590,7 @@ title: 南町通りレイディオ
 ## 2008年 - 平成20年
 
 * ![anime](images/anime.png) 世界名作劇場「ポルフィの長い旅」
+* ![anime](images/anime.png) 「仮面ライダーキバ」
 * ![anime](images/anime.png) 「炎神戦隊ゴーオンジャー」
 
 ### 9月
@@ -582,16 +601,20 @@ title: 南町通りレイディオ
 ## 2009年 - 平成21年
 
 * ![anime](images/anime.png) 世界名作劇場「こんにちはアン〜Before Green Gables」
+* ![anime](images/anime.png) 「仮面ライダーディケイド」
+* ![anime](images/anime.png) 「仮面ライダーW」
 * ![anime](images/anime.png) 「侍戦隊シンケンジャー」
 
 ---
 
 ## 2010年 - 平成22年
 
+* ![anime](images/anime.png) 「仮面ライダーオーズ/OOO」
 * ![anime](images/anime.png) 「天装戦隊ゴセイジャー」
 
 ## 2011年 - 平成23年
 
+* ![anime](images/anime.png) 「仮面ライダーフォーゼ」
 * ![anime](images/anime.png) 「海賊戦隊ゴーカイジャー」
 
 ### 6月
@@ -600,14 +623,17 @@ title: 南町通りレイディオ
 
 ## 2012年 - 平成24年
 
+* ![anime](images/anime.png) 「仮面ライダーウィザード」
 * ![anime](images/anime.png) 「特命戦隊ゴーバスターズ」
 
 ## 2013年 - 平成25年
 
+* ![anime](images/anime.png) 「仮面ライダー鎧武」
 * ![anime](images/anime.png) 「獣竜戦隊キョウリュウジャー」
 
 ## 2014年 - 平成26年
 
+* ![anime](images/anime.png) 「仮面ライダードライブ」
 * ![anime](images/anime.png) 「烈車戦隊トッキュウジャー」
 
 ### 10月
@@ -616,26 +642,32 @@ title: 南町通りレイディオ
 
 ## 2015年 - 平成27年
 
+* ![anime](images/anime.png) 「仮面ライダーゴースト」
 * ![anime](images/anime.png) 「手裏剣戦隊ニンニンジャー」
 
 ## 2016年 - 平成28年
 
+* ![anime](images/anime.png) 「仮面ライダーエグゼイド」
 * ![anime](images/anime.png) 「動物戦隊ジュウオウジャー」
 
 ## 2017年 - 平成29年
 
+* ![anime](images/anime.png) 「仮面ライダービルド」
 * ![anime](images/anime.png) 「宇宙戦隊キュウレンジャー」
 
 ## 2018年 - 平成30年
 
+* ![anime](images/anime.png) 「仮面ライダージオウ」
 * ![anime](images/anime.png) 「怪盗戦隊ルパンレンジャー VS 警察戦隊パトレンジャー」
 
 ## 2019年 - 令和元年
 
+* ![anime](images/anime.png) 「仮面ライダーゼロワン」
 * ![anime](images/anime.png) 「騎士竜戦隊リュウソウジャー」
 
 ---
 
 ## 2020年 - 令和2年
 
+* ![anime](images/anime.png) 「仮面ライダーセイバー」
 * ![anime](images/anime.png) 「魔進戦隊キラメイジャー」
