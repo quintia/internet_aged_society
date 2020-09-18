@@ -39,6 +39,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「UFOロボ グレンダイザー」
 * ![anime](images/anime.png) 「ゲッターロボG」
 * ![anime](images/anime.png) 「鋼鉄ジーグ」
+* ![anime](images/anime.png) 「秘密戦隊ゴレンジャー」
 
 ## 1976年 - 昭和51年
 
@@ -56,6 +57,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) こども劇場「あらいぐまラスカル」
 * ![anime](images/anime.png) 「超電磁マシーン ボルテスV」
 * ![anime](images/anime.png) 「無敵超人ザンボット3」
+* ![anime](images/anime.png) 「ジャッカー電撃隊」
 
 ## 1978年 - 昭和53年
 
@@ -69,6 +71,7 @@ title: 南町通りレイディオ
 * NEC [PC-8001](https://ja.wikipedia.org/wiki/PC-8000シリーズ) 発売
 * ![anime](images/anime.png) 世界名作劇場「赤毛のアン」
 * ![anime](images/anime.png) 「機動戦士ガンダム」
+* ![anime](images/anime.png) 「バトルフィーバーJ」
 
 ---
 
@@ -79,6 +82,7 @@ title: 南町通りレイディオ
 * [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
 * ![anime](images/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
 * ![anime](images/anime.png) 「無敵ロボ トライダーG7」
+* ![anime](images/anime.png) 「電子戦隊デンジマン」
 
 ## 1981年 - 昭和56年
 
@@ -90,6 +94,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「ふしぎな島のフローネ」
 * ![anime](images/anime.png) 「最強ロボ ダイオージャ」
 * ![anime](images/anime.png) 「太陽の牙ダグラム」
+* ![anime](images/anime.png) 「太陽戦隊サンバルカン」
 
 ## 1982年 - 昭和57年
 
@@ -105,6 +110,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「戦闘メカ ザブングル」
 * ![anime](images/anime.png) 「伝説巨神イデオン」
 * ![anime](images/anime.png) 「超時空要塞マクロス」
+* ![anime](images/anime.png) 「大戦隊ゴーグルファイブ」
 
 ## 1983年 - 昭和58年
 
@@ -122,6 +128,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「聖戦士ダンバイン」
 * ![anime](images/anime.png) 「装甲騎兵ボトムズ」
 * ![anime](images/anime.png) 「超時空世紀オーガス」
+* ![anime](images/anime.png) 「科学戦隊ダイナマン」
 
 
 ## 1984年 - 昭和59年
@@ -133,6 +140,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「牧場の少女カトリ」
 * ![anime](images/anime.png) 「重戦機エルガイム」
 * ![anime](images/anime.png) 「超時空騎団サザンクロス」
+* ![anime](images/anime.png) 「超電子バイオマン」
 
 ## 1985年 - 昭和60年
 
@@ -146,6 +154,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [セガ・マークIII](https://ja.wikipedia.org/wiki/セガ・マークIII) 発売
 * ![anime](images/anime.png) 世界名作劇場「小公女セーラ」
 * ![anime](images/anime.png) 「機動戦士Ζガンダム」
+* ![anime](images/anime.png) 「電撃戦隊チェンジマン」
 
 ## 1986年 - 昭和61年
 
@@ -157,6 +166,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ドラゴンクエスト](https://ja.wikipedia.org/wiki/ドラゴンクエスト) 発売
 * ![anime](images/anime.png) 世界名作劇場「愛少女ポリアンナ物語」
 * ![anime](images/anime.png) 「機動戦士ガンダムΖΖ」
+* ![anime](images/anime.png) 「超新星フラッシュマン」
 
 ## 1987年 - 昭和62年
 
@@ -169,6 +179,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「愛の若草物語」
 * ![anime](images/anime.png) 「機甲戦記ドラグナー」
 * ![anime](images/anime.png) 映画「王立宇宙軍 オネアミスの翼」公開
+* ![anime](images/anime.png) 「光戦隊マスクマン」
 
 ## 1988年 - 昭和63年
 
@@ -178,6 +189,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [メガドライブ](https://ja.wikipedia.org/wiki/メガドライブ) 発売
 * ![game](images/game.png) [ニンジャウォーリアーズ](https://ja.wikipedia.org/wiki/ニンジャウォーリアーズ) 稼働開始
 * ![anime](images/anime.png) 世界名作劇場「小公子セディ」
+* ![anime](images/anime.png) 「超獣戦隊ライブマン」
 
 ## 1989年 - 平成元年
 
@@ -190,6 +202,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ゲームボーイ](https://ja.wikipedia.org/wiki/ゲームボーイ) 発売
 * 富士通 [FM TOWNS](https://ja.wikipedia.org/wiki/FM_TOWNS) 発売
 * ![anime](images/anime.png) 世界名作劇場「ピーターパンの冒険」
+* ![anime](images/anime.png) 「高速戦隊ターボレンジャー」
 
 ---
 
@@ -205,6 +218,7 @@ title: 南町通りレイディオ
 * [アインシュタインTV](https://ja.wikipedia.org/wiki/アインシュタイン) 放送開始
 * ![anime](images/anime.png) 世界名作劇場「私のあしながおじさん」
 * ![anime](images/anime.png) 「ふしぎの海のナディア」
+* ![anime](images/anime.png) 「地球戦隊ファイブマン」
 
 ## 1991年 - 平成3年
 
@@ -216,6 +230,7 @@ title: 南町通りレイディオ
 * [Visual Basic](https://ja.wikipedia.org/wiki/Visual_Basic) 誕生
 * [Python](https://ja.wikipedia.org/wiki/Python) 誕生
 * ![anime](images/anime.png) 世界名作劇場「トラップ一家物語」
+* ![anime](images/anime.png) 「鳥人戦隊ジェットマン」
 
 ## 1992年 - 平成4年
 
@@ -223,6 +238,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [餓狼伝説2](https://ja.wikipedia.org/wiki/餓狼伝説2) 稼働開始
 * [ウゴウゴルーガ](https://ja.wikipedia.org/wiki/ウゴウゴルーガ) 放送開始
 * ![anime](images/anime.png) 世界名作劇場「大草原の小さな天使ブッシュベイビー」
+* ![anime](images/anime.png) 「恐竜戦隊ジュウレンジャー」
 
 ## 1993年 - 平成5年
 
@@ -235,6 +251,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [MYST](https://ja.wikipedia.org/wiki/MYST) 発売
 * [Macromedia Shockwave Player](https://en.wikipedia.org/wiki/Adobe_Shockwave) リリース
 * ![anime](images/anime.png) 世界名作劇場「若草物語ナンとジョー先生」
+* ![anime](images/anime.png) 「五星戦隊ダイレンジャー」
 
 ## 1994年 - 平成6年
 
@@ -247,6 +264,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [3DO](https://ja.wikipedia.org/wiki/3DO) 発売
 * Netscape Navigator
 * ![anime](images/anime.png) 世界名作劇場「七つの海のティコ」
+* ![anime](images/anime.png) 「忍者戦隊カクレンジャー」
 
 ### 7月 
 
@@ -269,6 +287,7 @@ title: 南町通りレイディオ
 * mp3 
 * ![anime](images/anime.png) 世界名作劇場「ロミオの青い空」
 * ![anime](images/anime.png) 「新世紀エヴァンゲリオン」
+* ![anime](images/anime.png) 「超力戦隊オーレンジャー」
 
 ### 6月
 
@@ -290,6 +309,7 @@ title: 南町通りレイディオ
 * Flash 
 * Javaアプレット
 * ![anime](images/anime.png) 世界名作劇場「名犬ラッシー」
+* ![anime](images/anime.png) 「激走戦隊カーレンジャー」
 
 ### 4月
 
@@ -308,6 +328,7 @@ title: 南町通りレイディオ
 
 * ![game](images/game.png) [beatmania](https://ja.wikipedia.org/wiki/Beatmania) 稼働開始
 * ![anime](images/anime.png) 世界名作劇場「家なき子レミ」
+* ![anime](images/anime.png) 「電磁戦隊メガレンジャー」
 
 ### 1月
 
@@ -338,6 +359,7 @@ title: 南町通りレイディオ
 
 * ![game](images/game.png) [pop'n music](https://ja.wikipedia.org/wiki/Pop%27n_music) 稼働開始
 * ![game](images/game.png) [Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution) 稼働開始
+* ![anime](images/anime.png) 「星獣戦隊ギンガマン」
 
 ### 3月
 
@@ -365,6 +387,8 @@ title: 南町通りレイディオ
 * ドリームキャスト
 
 ## 1999年 - 平成11年
+
+* ![anime](images/anime.png) 「救急戦隊ゴーゴーファイブ」
 
 ### 1月
 
@@ -401,6 +425,8 @@ title: 南町通りレイディオ
 
 * NHN(ハンゲーム エンコリ LINE)
 * Yahoo!ジオシティーズ
+* ![anime](images/anime.png) 「未来戦隊タイムレンジャー」
+
 
 ### 3月
 
@@ -423,6 +449,7 @@ title: 南町通りレイディオ
 
 * WinMX 
 * Jakarta Struts
+* ![anime](images/anime.png) 「百獣戦隊ガオレンジャー」
 
 ### 1月
 
@@ -446,6 +473,8 @@ title: 南町通りレイディオ
 
 ## 2002年 - 平成14年
 
+* ![anime](images/anime.png) 「忍風戦隊ハリケンジャー」
+
 ### 5月
 
 * Winny
@@ -461,6 +490,8 @@ title: 南町通りレイディオ
 
 ## 2003年 - 平成15年
 
+* ![anime](images/anime.png) 「爆竜戦隊アバレンジャー」
+
 ### 1月
 
 * Safari
@@ -475,6 +506,8 @@ title: 南町通りレイディオ
 * Seasarプロジェクト
 
 ## 2004年 - 平成16年
+
+* ![anime](images/anime.png) 「特捜戦隊デカレンジャー」
 
 ### 2月
 
@@ -496,6 +529,7 @@ title: 南町通りレイディオ
 ## 2005年 - 平成17年
 
 * WEB 2.0
+* ![anime](images/anime.png) 「魔法戦隊マジレンジャー」
 
 ### 2月
 
@@ -507,6 +541,8 @@ title: 南町通りレイディオ
 * はてなブックマーク(β公開)
 
 ## 2006年 - 平成18年
+
+* ![anime](images/anime.png) 「轟轟戦隊ボウケンジャー」
 
 ### 1月
 
@@ -523,6 +559,7 @@ title: 南町通りレイディオ
 ## 2007年 - 平成19年
 
 * ![anime](images/anime.png) 世界名作劇場「レ・ミゼラブル少女コゼット」
+* ![anime](images/anime.png) 「獣拳戦隊ゲキレンジャー」
 
 ### 1月
 
@@ -535,6 +572,7 @@ title: 南町通りレイディオ
 ## 2008年 - 平成20年
 
 * ![anime](images/anime.png) 世界名作劇場「ポルフィの長い旅」
+* ![anime](images/anime.png) 「炎神戦隊ゴーオンジャー」
 
 ### 9月
 
@@ -544,12 +582,17 @@ title: 南町通りレイディオ
 ## 2009年 - 平成21年
 
 * ![anime](images/anime.png) 世界名作劇場「こんにちはアン〜Before Green Gables」
+* ![anime](images/anime.png) 「侍戦隊シンケンジャー」
 
 ---
 
 ## 2010年 - 平成22年
 
+* ![anime](images/anime.png) 「天装戦隊ゴセイジャー」
+
 ## 2011年 - 平成23年
+
+* ![anime](images/anime.png) 「海賊戦隊ゴーカイジャー」
 
 ### 6月
 
@@ -557,9 +600,15 @@ title: 南町通りレイディオ
 
 ## 2012年 - 平成24年
 
+* ![anime](images/anime.png) 「特命戦隊ゴーバスターズ」
+
 ## 2013年 - 平成25年
 
+* ![anime](images/anime.png) 「獣竜戦隊キョウリュウジャー」
+
 ## 2014年 - 平成26年
+
+* ![anime](images/anime.png) 「烈車戦隊トッキュウジャー」
 
 ### 10月
 
@@ -567,14 +616,26 @@ title: 南町通りレイディオ
 
 ## 2015年 - 平成27年
 
+* ![anime](images/anime.png) 「手裏剣戦隊ニンニンジャー」
+
 ## 2016年 - 平成28年
+
+* ![anime](images/anime.png) 「動物戦隊ジュウオウジャー」
 
 ## 2017年 - 平成29年
 
+* ![anime](images/anime.png) 「宇宙戦隊キュウレンジャー」
+
 ## 2018年 - 平成30年
 
+* ![anime](images/anime.png) 「怪盗戦隊ルパンレンジャー VS 警察戦隊パトレンジャー」
+
 ## 2019年 - 令和元年
+
+* ![anime](images/anime.png) 「騎士竜戦隊リュウソウジャー」
 
 ---
 
 ## 2020年 - 令和2年
+
+* ![anime](images/anime.png) 「魔進戦隊キラメイジャー」
