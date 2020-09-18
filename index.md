@@ -5,6 +5,19 @@ title: 南町通りレイディオ
 
 # インターネット老人会向け年表
 
+## 1966年 - 昭和41年
+
+* ![anime](images/anime.png) 「ウルトラQ」
+* ![anime](images/anime.png) 「ウルトラマン」
+
+## 1967年 - 昭和42年
+
+* ![anime](images/anime.png) 「ウルトラセブン」
+
+## 1968年 - 昭和43年
+
+* ![anime](images/anime.png) 「怪奇大作戦」
+
 ## 1969年 - 昭和44年
 
 * [ARPANET](https://ja.wikipedia.org/wiki/ARPANET) 稼働開始
@@ -17,18 +30,21 @@ title: 南町通りレイディオ
 ## 1971年 - 昭和46年
 
 * ![anime](images/anime.png) 「仮面ライダー」
+* ![anime](images/anime.png) 「帰ってきたウルトラマン」
 
 ## 1972年 - 昭和47年
 
 * [Emacs](https://ja.wikipedia.org/wiki/Emacs) 開発
 * [C言語](https://ja.wikipedia.org/wiki/C言語) 誕生
 * ![anime](images/anime.png) 「マジンガーZ」
+* ![anime](images/anime.png) 「ウルトラマンA」
 
 ## 1973年 - 昭和48年
 
 * [TCP/IP](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート) 仕様公開
 * ![anime](images/anime.png) まんが劇場「山ねずみロッキーチャック」
 * ![anime](images/anime.png) 「仮面ライダーV3」
+* ![anime](images/anime.png) 「ウルトラマンタロウ」
 
 ## 1974年 - 昭和49年
 
@@ -37,6 +53,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「ゲッターロボ」
 * ![anime](images/anime.png) 「仮面ライダーX」
 * ![anime](images/anime.png) 「仮面ライダーアマゾン」
+* ![anime](images/anime.png) 「ウルトラマンレオ」
 
 ## 1975年 - 昭和50年
 
@@ -79,6 +96,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「機動戦士ガンダム」
 * ![anime](images/anime.png) 「仮面ライダー（スカイライダー）」
 * ![anime](images/anime.png) 「バトルフィーバーJ」
+* ![anime](images/anime.png) 「ザ☆ウルトラマン」
 
 ---
 
@@ -91,6 +109,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「無敵ロボ トライダーG7」
 * ![anime](images/anime.png) 「仮面ライダースーパー1」
 * ![anime](images/anime.png) 「電子戦隊デンジマン」
+* ![anime](images/anime.png) 「ウルトラマン80」
 
 ## 1981年 - 昭和56年
 
@@ -323,6 +342,7 @@ title: 南町通りレイディオ
 * Javaアプレット
 * ![anime](images/anime.png) 世界名作劇場「名犬ラッシー」
 * ![anime](images/anime.png) 「激走戦隊カーレンジャー」
+* ![anime](images/anime.png) 「ウルトラマンティガ」
 
 ### 4月
 
@@ -342,6 +362,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [beatmania](https://ja.wikipedia.org/wiki/Beatmania) 稼働開始
 * ![anime](images/anime.png) 世界名作劇場「家なき子レミ」
 * ![anime](images/anime.png) 「電磁戦隊メガレンジャー」
+* ![anime](images/anime.png) 「ウルトラマンダイナ」
 
 ### 1月
 
@@ -373,6 +394,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [pop'n music](https://ja.wikipedia.org/wiki/Pop%27n_music) 稼働開始
 * ![game](images/game.png) [Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution) 稼働開始
 * ![anime](images/anime.png) 「星獣戦隊ギンガマン」
+* ![anime](images/anime.png) 「ウルトラマンガイア」
 
 ### 3月
 
@@ -465,6 +487,7 @@ title: 南町通りレイディオ
 * Jakarta Struts
 * ![anime](images/anime.png) 「仮面ライダーアギト」
 * ![anime](images/anime.png) 「百獣戦隊ガオレンジャー」
+* ![anime](images/anime.png) 「ウルトラマンコスモス」
 
 ### 1月
 
@@ -526,6 +549,7 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダー剣」
 * ![anime](images/anime.png) 「特捜戦隊デカレンジャー」
+* ![anime](images/anime.png) 「ウルトラマンネクサス」
 
 ### 2月
 
@@ -549,6 +573,7 @@ title: 南町通りレイディオ
 * WEB 2.0
 * ![anime](images/anime.png) 「仮面ライダー響鬼」
 * ![anime](images/anime.png) 「魔法戦隊マジレンジャー」
+* ![anime](images/anime.png) 「ウルトラマンマックス」
 
 ### 2月
 
@@ -563,6 +588,7 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダーカブト」
 * ![anime](images/anime.png) 「轟轟戦隊ボウケンジャー」
+* ![anime](images/anime.png) 「ウルトラマンメビウス」
 
 ### 1月
 
