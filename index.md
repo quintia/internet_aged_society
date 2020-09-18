@@ -9,6 +9,7 @@ title: 南町通りレイディオ
 
 * [ARPANET](https://ja.wikipedia.org/wiki/ARPANET) 稼働開始
 * [UNIX](https://ja.wikipedia.org/wiki/UNIX) 誕生
+* ![manga](images/manga.png) 「ドラえもん」連載開始
 
 ---
 
@@ -56,6 +57,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) こども劇場「あらいぐまラスカル」
 * ![anime](images/anime.png) 「超電磁マシーン ボルテスV」
 * ![anime](images/anime.png) 「無敵超人ザンボット3」
+* ![manga](images/manga.png) 「リングにかけろ」連載開始
 
 ## 1978年 - 昭和53年
 
@@ -63,6 +65,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) ファミリー劇場「ペリーヌ物語」
 * ![anime](images/anime.png) 「闘将ダイモス」
 * ![anime](images/anime.png) 「無敵鋼人ダイターン3」
+* ![manga](images/manga.png) 「うる星やつら」連載開始
 
 ## 1979年 - 昭和54年
 
@@ -79,6 +82,7 @@ title: 南町通りレイディオ
 * [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
 * ![anime](images/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
 * ![anime](images/anime.png) 「無敵ロボ トライダーG7」
+* ![manga](images/manga.png) 「めぞん一刻」連載開始
 
 ## 1981年 - 昭和56年
 
@@ -122,6 +126,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「聖戦士ダンバイン」
 * ![anime](images/anime.png) 「装甲騎兵ボトムズ」
 * ![anime](images/anime.png) 「超時空世紀オーガス」
+* ![manga](images/manga.png) 「北斗の拳」連載開始
 
 
 ## 1984年 - 昭和59年
@@ -133,6 +138,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「牧場の少女カトリ」
 * ![anime](images/anime.png) 「重戦機エルガイム」
 * ![anime](images/anime.png) 「超時空騎団サザンクロス」
+* ![manga](images/manga.png) 「ドラゴンボール」連載開始
 
 ## 1985年 - 昭和60年
 
@@ -146,6 +152,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [セガ・マークIII](https://ja.wikipedia.org/wiki/セガ・マークIII) 発売
 * ![anime](images/anime.png) 世界名作劇場「小公女セーラ」
 * ![anime](images/anime.png) 「機動戦士Ζガンダム」
+* ![manga](images/manga.png) 「パイナップルARMY」連載開始
 
 ## 1986年 - 昭和61年
 
@@ -157,6 +164,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ドラゴンクエスト](https://ja.wikipedia.org/wiki/ドラゴンクエスト) 発売
 * ![anime](images/anime.png) 世界名作劇場「愛少女ポリアンナ物語」
 * ![anime](images/anime.png) 「機動戦士ガンダムΖΖ」
+* ![manga](images/manga.png) 「聖闘士星矢」連載開始
 
 ## 1987年 - 昭和62年
 
@@ -169,6 +177,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「愛の若草物語」
 * ![anime](images/anime.png) 「機甲戦記ドラグナー」
 * ![anime](images/anime.png) 映画「王立宇宙軍 オネアミスの翼」公開
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part1 ファントムブラッド）」連載開始
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part2 戦闘潮流）」連載開始
 
 ## 1988年 - 昭和63年
 
@@ -178,6 +188,10 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [メガドライブ](https://ja.wikipedia.org/wiki/メガドライブ) 発売
 * ![game](images/game.png) [ニンジャウォーリアーズ](https://ja.wikipedia.org/wiki/ニンジャウォーリアーズ) 稼働開始
 * ![anime](images/anime.png) 世界名作劇場「小公子セディ」
+* ![manga](images/manga.png) 「寄生獣」連載開始
+* ![manga](images/manga.png) 「拳児」連載開始
+* ![manga](images/manga.png) 「MASTERキートン」連載開始
+* ![manga](images/manga.png) 「機動警察パトレイバー」連載開始
 
 ## 1989年 - 平成元年
 
@@ -190,6 +204,10 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ゲームボーイ](https://ja.wikipedia.org/wiki/ゲームボーイ) 発売
 * 富士通 [FM TOWNS](https://ja.wikipedia.org/wiki/FM_TOWNS) 発売
 * ![anime](images/anime.png) 世界名作劇場「ピーターパンの冒険」
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part3 スターダストクルセイダース）」連載開始
+* ![manga](images/manga.png) 「DRAGON QUEST -ダイの大冒険-」連載開始
+* ![manga](images/manga.png) 「スプリガン」連載開始
+* ![manga](images/manga.png) 「ベルセルク」連載開始
 
 ---
 
@@ -205,6 +223,7 @@ title: 南町通りレイディオ
 * [アインシュタインTV](https://ja.wikipedia.org/wiki/アインシュタイン) 放送開始
 * ![anime](images/anime.png) 世界名作劇場「私のあしながおじさん」
 * ![anime](images/anime.png) 「ふしぎの海のナディア」
+* ![manga](images/manga.png) 「うしおととら」連載開始
 
 ## 1991年 - 平成3年
 
@@ -223,6 +242,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [餓狼伝説2](https://ja.wikipedia.org/wiki/餓狼伝説2) 稼働開始
 * [ウゴウゴルーガ](https://ja.wikipedia.org/wiki/ウゴウゴルーガ) 放送開始
 * ![anime](images/anime.png) 世界名作劇場「大草原の小さな天使ブッシュベイビー」
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part4 ダイヤモンドは砕けない）」連載開始
 
 ## 1993年 - 平成5年
 
@@ -269,6 +289,7 @@ title: 南町通りレイディオ
 * mp3 
 * ![anime](images/anime.png) 世界名作劇場「ロミオの青い空」
 * ![anime](images/anime.png) 「新世紀エヴァンゲリオン」
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part5 黄金の風）」連載開始
 
 ### 6月
 
@@ -401,6 +422,7 @@ title: 南町通りレイディオ
 
 * NHN(ハンゲーム エンコリ LINE)
 * Yahoo!ジオシティーズ
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part6 ストーンオーシャン）」連載開始
 
 ### 3月
 
@@ -476,6 +498,8 @@ title: 南町通りレイディオ
 
 ## 2004年 - 平成16年
 
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part7 スティール・ボール・ラン）」連載開始
+
 ### 2月
 
 * Facebook
@@ -550,6 +574,8 @@ title: 南町通りレイディオ
 ## 2010年 - 平成22年
 
 ## 2011年 - 平成23年
+
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part8 ジョジョリオン）」連載開始
 
 ### 6月
 
