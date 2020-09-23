@@ -22,6 +22,7 @@ title: 南町通りレイディオ
 
 * [ARPANET](https://ja.wikipedia.org/wiki/ARPANET) 稼働開始
 * [UNIX](https://ja.wikipedia.org/wiki/UNIX) 誕生
+* ![manga](images/manga.png) 「ドラえもん」連載開始
 
 ---
 
@@ -80,6 +81,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) こども劇場「あらいぐまラスカル」
 * ![anime](images/anime.png) 「超電磁マシーン ボルテスV」
 * ![anime](images/anime.png) 「無敵超人ザンボット3」
+* ![manga](images/manga.png) 「リングにかけろ」連載開始
 * ![anime](images/anime.png) 「ジャッカー電撃隊」
 
 ## 1978年 - 昭和53年
@@ -88,6 +90,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) ファミリー劇場「ペリーヌ物語」
 * ![anime](images/anime.png) 「闘将ダイモス」
 * ![anime](images/anime.png) 「無敵鋼人ダイターン3」
+* ![manga](images/manga.png) 「うる星やつら」連載開始
 
 ## 1979年 - 昭和54年
 
@@ -107,6 +110,7 @@ title: 南町通りレイディオ
 * [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
 * ![anime](images/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
 * ![anime](images/anime.png) 「無敵ロボ トライダーG7」
+* ![manga](images/manga.png) 「めぞん一刻」連載開始
 * ![anime](images/anime.png) 「仮面ライダースーパー1」
 * ![anime](images/anime.png) 「電子戦隊デンジマン」
 * ![anime](images/anime.png) 「ウルトラマン80」
@@ -122,6 +126,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「ふしぎな島のフローネ」
 * ![anime](images/anime.png) 「最強ロボ ダイオージャ」
 * ![anime](images/anime.png) 「太陽の牙ダグラム」
+* ![manga](images/manga.png) 「キャッツ・アイ」連載開始
 * ![anime](images/anime.png) 「太陽戦隊サンバルカン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙開拓史」
 
@@ -159,6 +164,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「聖戦士ダンバイン」
 * ![anime](images/anime.png) 「装甲騎兵ボトムズ」
 * ![anime](images/anime.png) 「超時空世紀オーガス」
+* ![manga](images/manga.png) 「北斗の拳」連載開始
 * ![anime](images/anime.png) 「科学戦隊ダイナマン」
 * ![anime](images/anime.png) 「宇宙刑事シャリバン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の海底鬼岩城」
@@ -172,6 +178,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「牧場の少女カトリ」
 * ![anime](images/anime.png) 「重戦機エルガイム」
 * ![anime](images/anime.png) 「超時空騎団サザンクロス」
+* ![manga](images/manga.png) 「ドラゴンボール」連載開始
 * ![anime](images/anime.png) 「超電子バイオマン」
 * ![anime](images/anime.png) 「宇宙刑事シャイダー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の魔界大冒険」
@@ -188,6 +195,8 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [セガ・マークIII](https://ja.wikipedia.org/wiki/セガ・マークIII) 発売
 * ![anime](images/anime.png) 世界名作劇場「小公女セーラ」
 * ![anime](images/anime.png) 「機動戦士Ζガンダム」
+* ![manga](images/manga.png) 「パイナップルARMY」連載開始
+* ![manga](images/manga.png) 「シティハンター」連載開始
 * ![anime](images/anime.png) 「電撃戦隊チェンジマン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙小戦争(リトルスターウォーズ)」
 
@@ -201,6 +210,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ドラゴンクエスト](https://ja.wikipedia.org/wiki/ドラゴンクエスト) 発売
 * ![anime](images/anime.png) 世界名作劇場「愛少女ポリアンナ物語」
 * ![anime](images/anime.png) 「機動戦士ガンダムΖΖ」
+* ![manga](images/manga.png) 「聖闘士星矢」連載開始
 * ![anime](images/anime.png) 「超新星フラッシュマン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と鉄人兵団」
 
@@ -215,6 +225,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「愛の若草物語」
 * ![anime](images/anime.png) 「機甲戦記ドラグナー」
 * ![anime](images/anime.png) 映画「王立宇宙軍 オネアミスの翼」公開
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part1 ファントムブラッド）」連載開始
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part2 戦闘潮流）」連載開始
 * ![anime](images/anime.png) 「仮面ライダーBLACK」
 * ![anime](images/anime.png) 「光戦隊マスクマン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と竜の騎士」
@@ -227,6 +239,10 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [メガドライブ](https://ja.wikipedia.org/wiki/メガドライブ) 発売
 * ![game](images/game.png) [ニンジャウォーリアーズ](https://ja.wikipedia.org/wiki/ニンジャウォーリアーズ) 稼働開始
 * ![anime](images/anime.png) 世界名作劇場「小公子セディ」
+* ![manga](images/manga.png) 「寄生獣」連載開始
+* ![manga](images/manga.png) 「拳児」連載開始
+* ![manga](images/manga.png) 「MASTERキートン」連載開始
+* ![manga](images/manga.png) 「機動警察パトレイバー」連載開始
 * ![anime](images/anime.png) 「仮面ライダーBLACK RX」
 * ![anime](images/anime.png) 「超獣戦隊ライブマン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のパラレル西遊記」
@@ -242,6 +258,11 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [ゲームボーイ](https://ja.wikipedia.org/wiki/ゲームボーイ) 発売
 * 富士通 [FM TOWNS](https://ja.wikipedia.org/wiki/FM_TOWNS) 発売
 * ![anime](images/anime.png) 世界名作劇場「ピーターパンの冒険」
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part3 スターダストクルセイダース）」連載開始
+* ![manga](images/manga.png) 「DRAGON QUEST -ダイの大冒険-」連載開始
+* ![manga](images/manga.png) 「スプリガン」連載開始
+* ![manga](images/manga.png) 「ベルセルク」連載開始
+* ![manga](images/manga.png) 「はじめの一歩」連載開始
 * ![anime](images/anime.png) 「高速戦隊ターボレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の日本誕生」
 
@@ -259,6 +280,7 @@ title: 南町通りレイディオ
 * [アインシュタインTV](https://ja.wikipedia.org/wiki/アインシュタイン) 放送開始
 * ![anime](images/anime.png) 世界名作劇場「私のあしながおじさん」
 * ![anime](images/anime.png) 「ふしぎの海のナディア」
+* ![manga](images/manga.png) 「うしおととら」連載開始
 * ![anime](images/anime.png) 「地球戦隊ファイブマン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太とアニマル惑星(プラネット)」
 
@@ -282,6 +304,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [餓狼伝説2](https://ja.wikipedia.org/wiki/餓狼伝説2) 稼働開始
 * [ウゴウゴルーガ](https://ja.wikipedia.org/wiki/ウゴウゴルーガ) 放送開始
 * ![anime](images/anime.png) 世界名作劇場「大草原の小さな天使ブッシュベイビー」
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part4 ダイヤモンドは砕けない）」連載開始
 * ![anime](images/anime.png) 「恐竜戦隊ジュウレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と雲の王国」
 
@@ -334,6 +357,7 @@ title: 南町通りレイディオ
 * mp3誕生 
 * ![anime](images/anime.png) 世界名作劇場「ロミオの青い空」
 * ![anime](images/anime.png) 「新世紀エヴァンゲリオン」
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part5 黄金の風）」連載開始
 * ![anime](images/anime.png) 「超力戦隊オーレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の創世日記」
 
@@ -494,6 +518,7 @@ title: 南町通りレイディオ
 
 * NHN(ハンゲーム エンコリ LINE)
 * Yahoo!ジオシティーズ
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part6 ストーンオーシャン）」連載開始
 * ![anime](images/anime.png) 「仮面ライダークウガ」
 * ![anime](images/anime.png) 「未来戦隊タイムレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の太陽王伝説」
@@ -589,6 +614,7 @@ title: 南町通りレイディオ
 
 ## 2004年 - 平成16年
 
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part7 スティール・ボール・ラン）」連載開始
 * ![anime](images/anime.png) 「仮面ライダー剣」
 * ![anime](images/anime.png) 「特捜戦隊デカレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンネクサス」
@@ -699,6 +725,7 @@ title: 南町通りレイディオ
 
 ## 2011年 - 平成23年
 
+* ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part8 ジョジョリオン）」連載開始
 * ![anime](images/anime.png) 「仮面ライダーフォーゼ」
 * ![anime](images/anime.png) 「海賊戦隊ゴーカイジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の人魚大海戦」
