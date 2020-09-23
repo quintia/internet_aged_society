@@ -2,3 +2,9 @@
 ---
 
 @import "{{ site.theme }}";
+
+@media screen and (max-width: 960px) {
+    .category{
+        top: 112px;
+    }
+}
