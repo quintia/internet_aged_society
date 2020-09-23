@@ -227,6 +227,7 @@ title: 南町通りレイディオ
 * [Python](https://ja.wikipedia.org/wiki/Python) 誕生
 * ![anime](images/anime.png) 世界名作劇場「トラップ一家物語」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のドラビアンナイト」
+* バブル崩壊
 
 ## 1992年 - 平成4年
 
@@ -284,6 +285,10 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「ロミオの青い空」
 * ![anime](images/anime.png) 「新世紀エヴァンゲリオン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の創世日記」
+
+### 1月
+
+* 阪神淡路大震災発生
 
 ### 6月
 
@@ -570,6 +575,10 @@ title: 南町通りレイディオ
 
 ### 9月
 
+* リーマンショック
+
+### 9月
+
 * Android
 * Google Chrome
 
@@ -586,7 +595,10 @@ title: 南町通りレイディオ
 
 ## 2011年 - 平成23年
 
+### 3月
+
 * ![anime](images/anime.png) 映画ドラえもん「新・のび太と鉄人兵団 〜はばたけ 天使たち〜」
+* 東日本大震災発生
 
 ### 6月
 
@@ -633,4 +645,9 @@ title: 南町通りレイディオ
 
 ## 2020年 - 令和2年
 
+### 1月
+
+* COVID-19 国内初感染者確認
+
+### 8月
 * ![anime](images/anime.png) 映画ドラえもん「のび太の新恐竜」
