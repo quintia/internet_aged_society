@@ -110,6 +110,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダースーパー1」
 * ![anime](images/anime.png) 「電子戦隊デンジマン」
 * ![anime](images/anime.png) 「ウルトラマン80」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の恐竜」
 
 ## 1981年 - 昭和56年
 
@@ -122,6 +123,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「最強ロボ ダイオージャ」
 * ![anime](images/anime.png) 「太陽の牙ダグラム」
 * ![anime](images/anime.png) 「太陽戦隊サンバルカン」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙開拓史」
 
 ## 1982年 - 昭和57年
 
@@ -139,6 +141,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「超時空要塞マクロス」
 * ![anime](images/anime.png) 「大戦隊ゴーグルファイブ」
 * ![anime](images/anime.png) 「宇宙刑事ギャバン」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の大魔境」
 
 ## 1983年 - 昭和58年
 
@@ -158,7 +161,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「超時空世紀オーガス」
 * ![anime](images/anime.png) 「科学戦隊ダイナマン」
 * ![anime](images/anime.png) 「宇宙刑事シャリバン」
-
+* ![anime](images/anime.png) 映画ドラえもん「のび太の海底鬼岩城」
 
 ## 1984年 - 昭和59年
 
@@ -171,6 +174,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「超時空騎団サザンクロス」
 * ![anime](images/anime.png) 「超電子バイオマン」
 * ![anime](images/anime.png) 「宇宙刑事シャイダー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の魔界大冒険」
 
 ## 1985年 - 昭和60年
 
@@ -185,6 +189,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「小公女セーラ」
 * ![anime](images/anime.png) 「機動戦士Ζガンダム」
 * ![anime](images/anime.png) 「電撃戦隊チェンジマン」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙小戦争(リトルスターウォーズ)」
 
 ## 1986年 - 昭和61年
 
@@ -197,6 +202,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「愛少女ポリアンナ物語」
 * ![anime](images/anime.png) 「機動戦士ガンダムΖΖ」
 * ![anime](images/anime.png) 「超新星フラッシュマン」
+* ![anime](images/anime.png) 映画ドラえもん「のび太と鉄人兵団」
 
 ## 1987年 - 昭和62年
 
@@ -211,6 +217,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 映画「王立宇宙軍 オネアミスの翼」公開
 * ![anime](images/anime.png) 「仮面ライダーBLACK」
 * ![anime](images/anime.png) 「光戦隊マスクマン」
+* ![anime](images/anime.png) 映画ドラえもん「のび太と竜の騎士」
 
 ## 1988年 - 昭和63年
 
@@ -222,6 +229,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「小公子セディ」
 * ![anime](images/anime.png) 「仮面ライダーBLACK RX」
 * ![anime](images/anime.png) 「超獣戦隊ライブマン」
+* ![anime](images/anime.png) 映画ドラえもん「のび太のパラレル西遊記」
 
 ## 1989年 - 平成元年
 
@@ -235,6 +243,7 @@ title: 南町通りレイディオ
 * 富士通 [FM TOWNS](https://ja.wikipedia.org/wiki/FM_TOWNS) 発売
 * ![anime](images/anime.png) 世界名作劇場「ピーターパンの冒険」
 * ![anime](images/anime.png) 「高速戦隊ターボレンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の日本誕生」
 
 ---
 
@@ -251,6 +260,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「私のあしながおじさん」
 * ![anime](images/anime.png) 「ふしぎの海のナディア」
 * ![anime](images/anime.png) 「地球戦隊ファイブマン」
+* ![anime](images/anime.png) 映画ドラえもん「のび太とアニマル惑星(プラネット)」
 
 ## 1991年 - 平成3年
 
@@ -263,6 +273,8 @@ title: 南町通りレイディオ
 * [Python](https://ja.wikipedia.org/wiki/Python) 誕生
 * ![anime](images/anime.png) 世界名作劇場「トラップ一家物語」
 * ![anime](images/anime.png) 「鳥人戦隊ジェットマン」
+* ![anime](images/anime.png) 映画ドラえもん「のび太のドラビアンナイト」
+* バブル崩壊
 
 ## 1992年 - 平成4年
 
@@ -271,6 +283,7 @@ title: 南町通りレイディオ
 * [ウゴウゴルーガ](https://ja.wikipedia.org/wiki/ウゴウゴルーガ) 放送開始
 * ![anime](images/anime.png) 世界名作劇場「大草原の小さな天使ブッシュベイビー」
 * ![anime](images/anime.png) 「恐竜戦隊ジュウレンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太と雲の王国」
 
 ## 1993年 - 平成5年
 
@@ -284,6 +297,7 @@ title: 南町通りレイディオ
 * [Macromedia Shockwave Player](https://en.wikipedia.org/wiki/Adobe_Shockwave) リリース
 * ![anime](images/anime.png) 世界名作劇場「若草物語ナンとジョー先生」
 * ![anime](images/anime.png) 「五星戦隊ダイレンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太とブリキの迷宮(ラビリンス)」
 
 ## 1994年 - 平成6年
 
@@ -297,6 +311,7 @@ title: 南町通りレイディオ
 * Netscape Navigator
 * ![anime](images/anime.png) 世界名作劇場「七つの海のティコ」
 * ![anime](images/anime.png) 「忍者戦隊カクレンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太と夢幻三剣士」
 
 ### 7月 
 
@@ -316,14 +331,23 @@ title: 南町通りレイディオ
 * [Ruby](https://ja.wikipedia.org/wiki/Ruby) 誕生
 * ![game](images/game.png) [Dの食卓](https://ja.wikipedia.org/wiki/Dの食卓) 発売
 * [テレホーダイ](https://ja.wikipedia.org/wiki/テレホーダイ) サービス開始
-* mp3 
+* mp3誕生 
 * ![anime](images/anime.png) 世界名作劇場「ロミオの青い空」
 * ![anime](images/anime.png) 「新世紀エヴァンゲリオン」
 * ![anime](images/anime.png) 「超力戦隊オーレンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の創世日記」
+
+### 1月
+
+* 阪神淡路大震災発生
 
 ### 6月
 
 * Personal Home Page Tools(後のPHP)
+
+### 7月
+
+* ![game](images/game.png) [バーチャルボーイ](https://ja.wikipedia.org/wiki/バーチャルボーイ) 発売
 
 ### 8月
 
@@ -343,6 +367,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「名犬ラッシー」
 * ![anime](images/anime.png) 「激走戦隊カーレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンティガ」
+* ![anime](images/anime.png) 映画ドラえもん「のび太と銀河超特急(エクスプレス)」
 
 ### 4月
 
@@ -363,6 +388,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「家なき子レミ」
 * ![anime](images/anime.png) 「電磁戦隊メガレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンダイナ」
+* ![anime](images/anime.png) 映画ドラえもん「のび太のねじ巻き都市(シティー)冒険記」(原作者遺作)
 
 ### 1月
 
@@ -395,6 +421,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution) 稼働開始
 * ![anime](images/anime.png) 「星獣戦隊ギンガマン」
 * ![anime](images/anime.png) 「ウルトラマンガイア」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の南海大冒険」
 
 ### 3月
 
@@ -424,14 +451,20 @@ title: 南町通りレイディオ
 ## 1999年 - 平成11年
 
 * ![anime](images/anime.png) 「救急戦隊ゴーゴーファイブ」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙漂流記」
 
 ### 1月
 
 * ろじっくぱらだいす
+* ![game](images/game.png) [PocketStation](https://ja.wikipedia.org/wiki/PocketStation) 発売
 
 ### 2月
 
 * iモード
+
+### 3月
+
+* ![game](images/game.png) [ワンダースワン](https://ja.wikipedia.org/wiki/ワンダースワン) 発売
 
 ### 5月
 
@@ -445,6 +478,7 @@ title: 南町通りレイディオ
 ### 7月
 
 * MSNメッセンジャー
+* ![game](images/game.png) [どこでもいっしょ](https://ja.wikipedia.org/wiki/どこでもいっしょ) 発売
 
 ### 8月
 
@@ -462,7 +496,7 @@ title: 南町通りレイディオ
 * Yahoo!ジオシティーズ
 * ![anime](images/anime.png) 「仮面ライダークウガ」
 * ![anime](images/anime.png) 「未来戦隊タイムレンジャー」
-
+* ![anime](images/anime.png) 映画ドラえもん「のび太の太陽王伝説」
 
 ### 3月
 
@@ -488,6 +522,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダーアギト」
 * ![anime](images/anime.png) 「百獣戦隊ガオレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンコスモス」
+* ![anime](images/anime.png) 映画ドラえもん「のび太と翼の勇者たち」
 
 ### 1月
 
@@ -500,10 +535,15 @@ title: 南町通りレイディオ
 ### 3月
 
 * 先行者
+* ![game](images/game.png) [ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス) 発売
 
 ### 7月
 
 * 探偵ファイル
+
+### 9月
+
+* ![game](images/game.png) [ニンテンドーゲームキューブ](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ) 発売
 
 ### 10月
 
@@ -513,6 +553,7 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダー龍騎」
 * ![anime](images/anime.png) 「忍風戦隊ハリケンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太とロボット王国(キングダム)」
 
 ### 5月
 
@@ -531,6 +572,7 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダー555」
 * ![anime](images/anime.png) 「爆竜戦隊アバレンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太とふしぎ風使い」
 
 ### 1月
 
@@ -550,6 +592,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダー剣」
 * ![anime](images/anime.png) 「特捜戦隊デカレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンネクサス」
+* ![anime](images/anime.png) 映画ドラえもん「のび太のワンニャン時空伝」(テレ朝版初代声優最終作)
 
 ### 2月
 
@@ -567,6 +610,11 @@ title: 南町通りレイディオ
 ### 7月
 
 * Ruby on Rails
+
+### 12月
+
+* ![game](images/game.png) [ニンテンドーDS](https://ja.wikipedia.org/wiki/ニンテンドーDS) 発売
+* ![game](images/game.png) [PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable) 発売
 
 ## 2005年 - 平成17年
 
@@ -589,6 +637,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダーカブト」
 * ![anime](images/anime.png) 「轟轟戦隊ボウケンジャー」
 * ![anime](images/anime.png) 「ウルトラマンメビウス」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の恐竜2006」(テレ朝版二代目声優第一作)
 
 ### 1月
 
@@ -607,6 +656,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「レ・ミゼラブル少女コゼット」
 * ![anime](images/anime.png) 「仮面ライダー電王」
 * ![anime](images/anime.png) 「獣拳戦隊ゲキレンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の新魔界大冒険 〜7人の魔法使い〜」
 
 ### 1月
 
@@ -621,6 +671,11 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「ポルフィの長い旅」
 * ![anime](images/anime.png) 「仮面ライダーキバ」
 * ![anime](images/anime.png) 「炎神戦隊ゴーオンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太と緑の巨人伝」
+
+### 9月
+
+* リーマンショック
 
 ### 9月
 
@@ -633,6 +688,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダーディケイド」
 * ![anime](images/anime.png) 「仮面ライダーW」
 * ![anime](images/anime.png) 「侍戦隊シンケンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「新・のび太の宇宙開拓史」
 
 ---
 
@@ -645,6 +701,16 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダーフォーゼ」
 * ![anime](images/anime.png) 「海賊戦隊ゴーカイジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の人魚大海戦」
+
+### 2月
+
+* ![game](images/game.png) [ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS) 発売
+
+### 3月
+
+* ![anime](images/anime.png) 映画ドラえもん「新・のび太と鉄人兵団 〜はばたけ 天使たち〜」
+* 東日本大震災発生
 
 ### 6月
 
@@ -664,6 +730,15 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダードライブ」
 * ![anime](images/anime.png) 「烈車戦隊トッキュウジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太と奇跡の島 〜アニマル アドベンチャー〜」
+
+## 2013年 - 平成25年
+
+* ![anime](images/anime.png) 映画ドラえもん「のび太のひみつ道具博物館(ミュージアム)」
+
+## 2014年 - 平成26年
+
+* ![anime](images/anime.png) 映画ドラえもん「新・のび太の大魔境 〜ペコと5人の探検隊〜」
 
 ### 10月
 
@@ -693,6 +768,24 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダーゼロワン」
 * ![anime](images/anime.png) 「騎士竜戦隊リュウソウジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙英雄記(スペースヒーローズ)」
+
+## 2016年 - 平成28年
+
+* ![anime](images/anime.png) 映画ドラえもん「新・のび太の日本誕生」
+
+## 2017年 - 平成29年
+
+* ![anime](images/anime.png) 映画ドラえもん「のび太の南極カチコチ大冒険」
+
+## 2018年 - 平成30年
+
+* ![anime](images/anime.png) 映画ドラえもん「のび太の宝島」
+
+## 2019年 - 令和元年
+
+* 今上天皇即位
+* ![anime](images/anime.png) 映画ドラえもん「のび太の月面探査記」
 
 ---
 
@@ -700,3 +793,9 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダーセイバー」
 * ![anime](images/anime.png) 「魔進戦隊キラメイジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の新恐竜」
+
+### 1月
+
+* COVID-19 国内初感染者確認
+
