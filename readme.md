@@ -12,3 +12,5 @@
   インターネット老人会
 * 番外編 https://www.youtube.com/watch?v=DSQP8di5QQo  
   誤認検挙された話
+* 第6回 https://www.youtube.com/watch?v=6EO0HuC_t2Y  
+  ニンダイ 2020.9
