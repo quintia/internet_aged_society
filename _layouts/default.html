@@ -40,19 +40,23 @@
 </div>
 <script type="text/javascript">
     function viewlist(category = "all") {
-        let root = document.getElementsByTagName("section")[0];
-        let nodes = root.getElementsByTagName("li");
-        for (let i = 0; i < nodes.length; i++) {
-            var tag = nodes[i];
+        const root = document.getElementsByTagName("section")[0];
+        const nodes = root.getElementsByTagName("li");
+        for(node of nodes){
             if (category === "all") {
-                tag.style.display = "list-item";
-            } else if (category === "off") {
-                tag.style.display = "none";
-            } else {
-                var img = tag.firstChild
-                if (img != null && img.tagName === "IMG" && img.alt === category) {
-                    tag.style.display = "list-item";
-                }
+                node.style.display = "list-item";
+                continue
+            } 
+            if (category === "off") {
+                node.style.display = "none";
+                continue
+            } 
+            
+            const img = node.firstChild
+            if (img != null && img.tagName === "IMG" && img.alt === category) {
+                node.style.display = "list-item";
+            }else{
+                node.style.display = "none";
             }
         }
     }
