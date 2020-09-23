@@ -38,12 +38,14 @@ title: 南町通りレイディオ
 * [Emacs](https://ja.wikipedia.org/wiki/Emacs) 開発
 * [C言語](https://ja.wikipedia.org/wiki/C言語) 誕生
 * ![anime](images/anime.png) 「マジンガーZ」
+* ![anime](images/anime.png) 「科学忍者隊ガッチャマン」
 * ![anime](images/anime.png) 「ウルトラマンA」
 
 ## 1973年 - 昭和48年
 
 * [TCP/IP](https://ja.wikipedia.org/wiki/インターネット・プロトコル・スイート) 仕様公開
 * ![anime](images/anime.png) まんが劇場「山ねずみロッキーチャック」
+* ![anime](images/anime.png) 「新造人間キャシャーン」
 * ![anime](images/anime.png) 「仮面ライダーV3」
 * ![anime](images/anime.png) 「ウルトラマンタロウ」
 
@@ -52,6 +54,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) まんが劇場「アルプスの少女ハイジ」
 * ![anime](images/anime.png) 「グレートマジンガー」
 * ![anime](images/anime.png) 「ゲッターロボ」
+* ![anime](images/anime.png) 「破裏拳ポリマー」
 * ![anime](images/anime.png) 「仮面ライダーX」
 * ![anime](images/anime.png) 「仮面ライダーアマゾン」
 * ![anime](images/anime.png) 「ウルトラマンレオ」
@@ -62,6 +65,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「UFOロボ グレンダイザー」
 * ![anime](images/anime.png) 「ゲッターロボG」
 * ![anime](images/anime.png) 「鋼鉄ジーグ」
+* ![anime](images/anime.png) 「タイムボカン」
 * ![anime](images/anime.png) 「仮面ライダーストロンガー」
 * ![anime](images/anime.png) 「秘密戦隊ゴレンジャー」
 
@@ -81,6 +85,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) こども劇場「あらいぐまラスカル」
 * ![anime](images/anime.png) 「超電磁マシーン ボルテスV」
 * ![anime](images/anime.png) 「無敵超人ザンボット3」
+* ![anime](images/anime.png) 「ヤッターマン」
 * ![manga](images/manga.png) 「リングにかけろ」連載開始
 * ![anime](images/anime.png) 「ジャッカー電撃隊」
 
@@ -90,6 +95,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) ファミリー劇場「ペリーヌ物語」
 * ![anime](images/anime.png) 「闘将ダイモス」
 * ![anime](images/anime.png) 「無敵鋼人ダイターン3」
+* ![anime](images/anime.png) 「科学忍者隊ガッチャマンⅡ」
 * ![manga](images/manga.png) 「うる星やつら」連載開始
 
 ## 1979年 - 昭和54年
@@ -97,6 +103,8 @@ title: 南町通りレイディオ
 * NEC [PC-8001](https://ja.wikipedia.org/wiki/PC-8000シリーズ) 発売
 * ![anime](images/anime.png) 世界名作劇場「赤毛のアン」
 * ![anime](images/anime.png) 「機動戦士ガンダム」
+* ![anime](images/anime.png) 「ゼンダマン」
+* ![anime](images/anime.png) 「科学忍者隊ガッチャマンF」
 * ![anime](images/anime.png) 「仮面ライダー（スカイライダー）」
 * ![anime](images/anime.png) 「バトルフィーバーJ」
 * ![anime](images/anime.png) 「ザ☆ウルトラマン」
@@ -110,6 +118,7 @@ title: 南町通りレイディオ
 * [イーサネット](https://ja.wikipedia.org/wiki/イーサネット) 規格公開
 * ![anime](images/anime.png) 世界名作劇場「トム・ソーヤーの冒険」
 * ![anime](images/anime.png) 「無敵ロボ トライダーG7」
+* ![anime](images/anime.png) 「オタスケマン」
 * ![manga](images/manga.png) 「めぞん一刻」連載開始
 * ![anime](images/anime.png) 「仮面ライダースーパー1」
 * ![anime](images/anime.png) 「電子戦隊デンジマン」
@@ -126,6 +135,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「ふしぎな島のフローネ」
 * ![anime](images/anime.png) 「最強ロボ ダイオージャ」
 * ![anime](images/anime.png) 「太陽の牙ダグラム」
+* ![anime](images/anime.png) 「ヤットデタマン」
 * ![manga](images/manga.png) 「キャッツ・アイ」連載開始
 * ![anime](images/anime.png) 「太陽戦隊サンバルカン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙開拓史」
@@ -144,6 +154,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「戦闘メカ ザブングル」
 * ![anime](images/anime.png) 「伝説巨神イデオン」
 * ![anime](images/anime.png) 「超時空要塞マクロス」
+* ![anime](images/anime.png) 「逆転イッパツマン」
 * ![anime](images/anime.png) 「大戦隊ゴーグルファイブ」
 * ![anime](images/anime.png) 「宇宙刑事ギャバン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の大魔境」
@@ -164,6 +175,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「聖戦士ダンバイン」
 * ![anime](images/anime.png) 「装甲騎兵ボトムズ」
 * ![anime](images/anime.png) 「超時空世紀オーガス」
+* ![anime](images/anime.png) 「イタダキマン」
+* ![anime](images/anime.png) 「未来警察ウラシマン」
 * ![manga](images/manga.png) 「北斗の拳」連載開始
 * ![anime](images/anime.png) 「科学戦隊ダイナマン」
 * ![anime](images/anime.png) 「宇宙刑事シャリバン」
@@ -178,6 +191,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「牧場の少女カトリ」
 * ![anime](images/anime.png) 「重戦機エルガイム」
 * ![anime](images/anime.png) 「超時空騎団サザンクロス」
+* ![anime](images/anime.png) 映画「超時空要塞マクロス 愛・おぼえていますか」公開
+* ![anime](images/anime.png) 映画「うる星やつら2 ビューティフル・ドリーマー」公開
 * ![manga](images/manga.png) 「ドラゴンボール」連載開始
 * ![anime](images/anime.png) 「超電子バイオマン」
 * ![anime](images/anime.png) 「宇宙刑事シャイダー」
@@ -239,6 +254,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [メガドライブ](https://ja.wikipedia.org/wiki/メガドライブ) 発売
 * ![game](images/game.png) [ニンジャウォーリアーズ](https://ja.wikipedia.org/wiki/ニンジャウォーリアーズ) 稼働開始
 * ![anime](images/anime.png) 世界名作劇場「小公子セディ」
+* ![anime](images/anime.png) 映画「機動戦士ガンダム 逆襲のシャア」公開
 * ![manga](images/manga.png) 「寄生獣」連載開始
 * ![manga](images/manga.png) 「拳児」連載開始
 * ![manga](images/manga.png) 「MASTERキートン」連載開始
@@ -294,6 +310,7 @@ title: 南町通りレイディオ
 * [Visual Basic](https://ja.wikipedia.org/wiki/Visual_Basic) 誕生
 * [Python](https://ja.wikipedia.org/wiki/Python) 誕生
 * ![anime](images/anime.png) 世界名作劇場「トラップ一家物語」
+* ![anime](images/anime.png) 映画「機動戦士ガンダムF91」公開
 * ![anime](images/anime.png) 「鳥人戦隊ジェットマン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のドラビアンナイト」
 * バブル崩壊
@@ -761,6 +778,7 @@ title: 南町通りレイディオ
 
 ## 2013年 - 平成25年
 
+* ![anime](images/anime.png) 「ガッチャマン クラウズ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のひみつ道具博物館(ミュージアム)」
 
 ## 2014年 - 平成26年
@@ -773,6 +791,7 @@ title: 南町通りレイディオ
 
 ## 2015年 - 平成27年
 
+* ![anime](images/anime.png) 「ガッチャマン クラウズ インサイト」
 * ![anime](images/anime.png) 「仮面ライダーゴースト」
 * ![anime](images/anime.png) 「手裏剣戦隊ニンニンジャー」
 
