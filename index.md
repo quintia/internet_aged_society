@@ -248,6 +248,7 @@ title: 南町通りレイディオ
 
 ## 1988年 - 昭和63年
 
+* ![music](images/music.png) B'z デビュー(デビュー曲：だからその手を離して)
 * ![game](images/game.png) [YsⅡ](https://ja.wikipedia.org/wiki/イースII) 発売
 * [MSX2+](https://ja.wikipedia.org/wiki/MSX2%2B) 発売開始
 * ![game](images/game.png) PCエンジン CD-ROM2 発売
@@ -286,6 +287,7 @@ title: 南町通りレイディオ
 
 ## 1990年 - 平成2年
 
+* ![music](images/music.png) B'z 5thシングル『太陽のKomachi Angel』初のオリコンチャート1位 
 * ![game](images/game.png) [メタルギア2 ソリッドスネーク](https://ja.wikipedia.org/wiki/メタルギア2_ソリッドスネーク) 発売
 * [MSXturboR](https://ja.wikipedia.org/wiki/MSXturboR) 発売開始
 * ![game](images/game.png) [スーパーファミコン](https://ja.wikipedia.org/wiki/スーパーファミコン) 発売
@@ -302,6 +304,7 @@ title: 南町通りレイディオ
 
 ## 1991年 - 平成3年
 
+* ![music](images/music.png) B'z 8thシングル『LADY NAVIGATION』が初のミリオンセラー
 * ![game](images/game.png) [ストリートファイターⅡ](https://ja.wikipedia.org/wiki/ストリートファイターII) 稼働開始
 * ![game](images/game.png) [ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ) 発売
 * ![game](images/game.png) [プリンセスメーカー](https://ja.wikipedia.org/wiki/プリンセスメーカー) 発売
@@ -433,16 +436,16 @@ title: 南町通りレイディオ
 
 ### 1月
 
-* PostPet
+* ![internet](images/internet.png) PostPet
 
 ### 2月
 
-* 楽天
+* ![internet](images/internet.png) 楽天
 
 ### 8月
 
-* エキサイト
-* あめぞう
+* ![internet](images/internet.png) エキサイト
+* ![internet](images/internet.png) あめぞう
 
 ### 9月
 
@@ -454,10 +457,11 @@ title: 南町通りレイディオ
 
 ### 11月
 
-* 世界最強の危険リンク集   (類似・時期不明)宇宙最強リンク集、日本海溝
+* ![internet](images/internet.png) 世界最強の危険リンク集   (類似・時期不明)宇宙最強リンク集、日本海溝
 
 ## 1998年 - 平成10年
 
+* ![music](images/music.png) B'z ベスト・アルバム『B'z The Best "Pleasure"』『B'z The Best "Treasure"』発売 合計で約1,000万枚の売上枚数
 * ![game](images/game.png) [pop'n music](https://ja.wikipedia.org/wiki/Pop%27n_music) 稼働開始
 * ![game](images/game.png) [Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution) 稼働開始
 * ![anime](images/anime.png) 「星獣戦隊ギンガマン」
@@ -466,27 +470,27 @@ title: 南町通りレイディオ
 
 ### 3月
 
-* サイバーエージェント
+* ![internet](images/internet.png) サイバーエージェント
 
 ### 4月
 
-* Tripod
+* ![internet](images/internet.png) Tripod
 
 ### 6月
 
-* BM98
+* ![internet](images/internet.png) BM98
 
 ### 7月
 
-* Windows 98
+* ![internet](images/internet.png) Windows 98
 
 ### 9月
 
-* google
+* ![internet](images/internet.png) google
 
 ### 11月
 
-* インフォシーク
+* ![internet](images/internet.png) インフォシーク
 * ドリームキャスト
 
 ## 1999年 - 平成11年
@@ -496,12 +500,12 @@ title: 南町通りレイディオ
 
 ### 1月
 
-* ろじっくぱらだいす
+* ![internet](images/internet.png) ろじっくぱらだいす
 * ![game](images/game.png) [PocketStation](https://ja.wikipedia.org/wiki/PocketStation) 発売
 
 ### 2月
 
-* iモード
+* ![internet](images/internet.png) iモード
 
 ### 3月
 
@@ -509,21 +513,21 @@ title: 南町通りレイディオ
 
 ### 5月
 
-* ナップスター
-* 2ch
+* ![internet](images/internet.png) ナップスター
+* ![internet](images/internet.png) 2ch
 
 ### 6月
 
-* Mixi
+* ![internet](images/internet.png) Mixi
 
 ### 7月
 
-* MSNメッセンジャー
+* ![internet](images/internet.png) MSNメッセンジャー
 * ![game](images/game.png) [どこでもいっしょ](https://ja.wikipedia.org/wiki/どこでもいっしょ) 発売
 
 ### 8月
 
-* ライブドア(→2002年 オン・ザ・エッヂ、ホリエモン)
+* ![internet](images/internet.png) ライブドア(→2002年 オン・ザ・エッヂ、ホリエモン)
 
 ### 9月
 
@@ -533,8 +537,8 @@ title: 南町通りレイディオ
 
 ## 2000年 - 平成12年
 
-* NHN(ハンゲーム エンコリ LINE)
-* Yahoo!ジオシティーズ
+* ![internet](images/internet.png) NHN(ハンゲーム エンコリ LINE)
+* ![internet](images/internet.png) Yahoo!ジオシティーズ
 * ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part6 ストーンオーシャン）」連載開始
 * ![anime](images/anime.png) 「仮面ライダークウガ」
 * ![anime](images/anime.png) 「未来戦隊タイムレンジャー」
@@ -546,11 +550,11 @@ title: 南町通りレイディオ
 
 ### 5月
 
-* HEXAGON(1999年かも)
+* ![internet](images/internet.png) HEXAGON(1999年かも)
 
 ### 11月
 
-* 三上氏、テキスト系サイトをオープンする(11日)
+* ![internet](images/internet.png) 三上氏、テキスト系サイトをオープンする(11日)
 
 ### 12月
 
@@ -559,7 +563,7 @@ title: 南町通りレイディオ
 
 ## 2001年 - 平成13年
 
-* WinMX 
+* ![internet](images/internet.png) WinMX 
 * Jakarta Struts
 * ![anime](images/anime.png) 「仮面ライダーアギト」
 * ![anime](images/anime.png) 「百獣戦隊ガオレンジャー」
@@ -568,20 +572,20 @@ title: 南町通りレイディオ
 
 ### 1月
 
-* 侍魂
+* ![internet](images/internet.png) 侍魂
 
 ### 2月
 
-* ちゆ12歳
+* ![internet](images/internet.png) [ちゆ12歳](http://tiyu.to/) 
 
 ### 3月
 
-* 先行者
+* ![internet](images/internet.png) 先行者(By侍魂)
 * ![game](images/game.png) [ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス) 発売
 
 ### 7月
 
-* 探偵ファイル
+* ![internet](images/internet.png) 探偵ファイル
 
 ### 9月
 
@@ -599,7 +603,7 @@ title: 南町通りレイディオ
 
 ### 5月
 
-* Winny
+* ![internet](images/internet.png) Winny
 
 ### 9月
 
@@ -622,11 +626,11 @@ title: 南町通りレイディオ
 
 ### 4月
 
-* セカンドライフ
+* ![internet](images/internet.png) セカンドライフ
 
 ### 8月
 
-* マイスペース
+* ![internet](images/internet.png) マイスペース
 * Seasarプロジェクト
 
 ## 2004年 - 平成16年
@@ -639,16 +643,16 @@ title: 南町通りレイディオ
 
 ### 2月
 
-* Facebook
+* ![internet](images/internet.png) Facebook
 
 ### 3月
 
-* 電車男
+* ![internet](images/internet.png) 電車男
 
 ### 4月
 
-* Yahoo!知恵袋
-* Gmail
+* ![internet](images/internet.png) Yahoo!知恵袋
+* ![internet](images/internet.png) Gmail
 
 ### 7月
 
@@ -668,12 +672,12 @@ title: 南町通りレイディオ
 
 ### 2月
 
-* Youtube
+* ![internet](images/internet.png) Youtube
 
 ### 8月
 
-* のまネコ問題
-* はてなブックマーク(β公開)
+* ![internet](images/internet.png) のまネコ問題
+* ![internet](images/internet.png) はてなブックマーク(β公開)
 
 ## 2006年 - 平成18年
 
@@ -688,11 +692,11 @@ title: 南町通りレイディオ
 
 ### 7月
 
-* Twitter
+* ![internet](images/internet.png) Twitter
 
 ### 12月
 
-* ニコニコ動画
+* ![internet](images/internet.png) ニコニコ動画
 
 ## 2007年 - 平成19年
 
@@ -830,6 +834,7 @@ title: 南町通りレイディオ
 
 ## 2019年 - 令和元年
 
+* Splatoon Team KP結成(03/16)
 * 今上天皇即位
 * ![anime](images/anime.png) 映画ドラえもん「のび太の月面探査記」
 
