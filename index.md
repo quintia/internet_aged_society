@@ -468,6 +468,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「星獣戦隊ギンガマン」
 * ![anime](images/anime.png) 「ウルトラマンガイア」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の南海大冒険」
+* ![game](images/game.png) [ドリームキャスト](https://ja.wikipedia.org/wiki/ドリームキャスト) 発売
 
 ### 3月
 
@@ -544,6 +545,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダークウガ」
 * ![anime](images/anime.png) 「未来戦隊タイムレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の太陽王伝説」
+* ![game](images/game.png) [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2) 発売
 
 ### 3月
 
@@ -686,6 +688,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「轟轟戦隊ボウケンジャー」
 * ![anime](images/anime.png) 「ウルトラマンメビウス」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の恐竜2006」(テレ朝版二代目声優第一作)
+* ![game](images/game.png) [Wii](https://ja.wikipedia.org/wiki/Wii) 発売
+* ![game](images/game.png) [PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3) 発売
 
 ### 1月
 
@@ -751,6 +755,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダーフォーゼ」
 * ![anime](images/anime.png) 「海賊戦隊ゴーカイジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の人魚大海戦」
+* ![game](images/game.png) [PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita) 発売
+
 
 ### 2月
 
@@ -769,11 +775,13 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダーウィザード」
 * ![anime](images/anime.png) 「特命戦隊ゴーバスターズ」
+* ![game](images/game.png) [Wii U](https://ja.wikipedia.org/wiki/Wii_U) 発売
 
 ## 2013年 - 平成25年
 
 * ![anime](images/anime.png) 「仮面ライダー鎧武」
 * ![anime](images/anime.png) 「獣竜戦隊キョウリュウジャー」
+* ![game](images/game.png) [PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4) 発売
 
 ## 2014年 - 平成26年
 
@@ -799,6 +807,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「ガッチャマン クラウズ インサイト」
 * ![anime](images/anime.png) 「仮面ライダーゴースト」
 * ![anime](images/anime.png) 「手裏剣戦隊ニンニンジャー」
+* ![game](images/game.png) [スプラトゥーン](https://ja.wikipedia.org/wiki/スプラトゥーン) 発売
 
 ## 2016年 - 平成28年
 
@@ -809,6 +818,8 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダービルド」
 * ![anime](images/anime.png) 「宇宙戦隊キュウレンジャー」
+* ![game](images/game.png) [Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch) 発売
+* ![game](images/game.png) [スプラトゥーン2](https://ja.wikipedia.org/wiki/スプラトゥーン2) 発売
 
 ## 2018年 - 平成30年
 
