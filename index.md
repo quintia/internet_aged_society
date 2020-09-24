@@ -782,20 +782,15 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダー鎧武」
 * ![anime](images/anime.png) 「獣竜戦隊キョウリュウジャー」
 * ![game](images/game.png) [PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4) 発売
+* ![anime](images/anime.png) 「ガッチャマン クラウズ」
+* ![anime](images/anime.png) 映画ドラえもん「のび太のひみつ道具博物館(ミュージアム)」
+
 
 ## 2014年 - 平成26年
 
 * ![anime](images/anime.png) 「仮面ライダードライブ」
 * ![anime](images/anime.png) 「烈車戦隊トッキュウジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と奇跡の島 〜アニマル アドベンチャー〜」
-
-## 2013年 - 平成25年
-
-* ![anime](images/anime.png) 「ガッチャマン クラウズ」
-* ![anime](images/anime.png) 映画ドラえもん「のび太のひみつ道具博物館(ミュージアム)」
-
-## 2014年 - 平成26年
-
 * ![anime](images/anime.png) 映画ドラえもん「新・のび太の大魔境 〜ペコと5人の探検隊〜」
 
 ### 10月
@@ -813,6 +808,7 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダーエグゼイド」
 * ![anime](images/anime.png) 「動物戦隊ジュウオウジャー」
+* ![anime](images/anime.png) 映画ドラえもん「新・のび太の日本誕生」
 
 ## 2017年 - 平成29年
 
@@ -820,32 +816,19 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「宇宙戦隊キュウレンジャー」
 * ![game](images/game.png) [Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch) 発売
 * ![game](images/game.png) [スプラトゥーン2](https://ja.wikipedia.org/wiki/スプラトゥーン2) 発売
+* ![anime](images/anime.png) 映画ドラえもん「のび太の南極カチコチ大冒険」
 
 ## 2018年 - 平成30年
 
 * ![anime](images/anime.png) 「仮面ライダージオウ」
 * ![anime](images/anime.png) 「怪盗戦隊ルパンレンジャー VS 警察戦隊パトレンジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の宝島」
 
 ## 2019年 - 令和元年
 
 * ![anime](images/anime.png) 「仮面ライダーゼロワン」
 * ![anime](images/anime.png) 「騎士竜戦隊リュウソウジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙英雄記(スペースヒーローズ)」
-
-## 2016年 - 平成28年
-
-* ![anime](images/anime.png) 映画ドラえもん「新・のび太の日本誕生」
-
-## 2017年 - 平成29年
-
-* ![anime](images/anime.png) 映画ドラえもん「のび太の南極カチコチ大冒険」
-
-## 2018年 - 平成30年
-
-* ![anime](images/anime.png) 映画ドラえもん「のび太の宝島」
-
-## 2019年 - 令和元年
-
 * Splatoon Team KP結成(03/16)
 * 今上天皇即位
 * ![anime](images/anime.png) 映画ドラえもん「のび太の月面探査記」
