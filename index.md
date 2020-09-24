@@ -341,6 +341,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「若草物語ナンとジョー先生」
 * ![anime](images/anime.png) 「五星戦隊ダイレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太とブリキの迷宮(ラビリンス)」
+* [vim](https://ja.wikipedia.org/wiki/Vim) 2.0（Vi IMproved）公開
 
 ## 1994年 - 平成6年
 
