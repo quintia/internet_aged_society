@@ -264,9 +264,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「超獣戦隊ライブマン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のパラレル西遊記」
 
-## 1989年 - 平成元年
+## 1989年 - 平成元年 : 昭和天皇崩御
 
-* 昭和天皇崩御
 * DoGA [CGAコンテスト](https://ja.wikipedia.org/wiki/プロジェクトチームDoGA) 開催開始
 * ![anime](images/anime.png) 映画「機動警察パトレイバー the Movie」公開
 * ![game](images/game.png) [電脳学園](https://ja.wikipedia.org/wiki/電脳学園) 発売
@@ -302,7 +301,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「地球戦隊ファイブマン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太とアニマル惑星(プラネット)」
 
-## 1991年 - 平成3年
+## 1991年 - 平成3年 : バブル崩壊
 
 * ![music](images/music.png) B'z 8thシングル『LADY NAVIGATION』が初のミリオンセラー
 * ![game](images/game.png) [ストリートファイターⅡ](https://ja.wikipedia.org/wiki/ストリートファイターII) 稼働開始
@@ -316,7 +315,6 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 映画「機動戦士ガンダムF91」公開
 * ![anime](images/anime.png) 「鳥人戦隊ジェットマン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のドラビアンナイト」
-* バブル崩壊
 
 ## 1992年 - 平成4年
 
@@ -356,20 +354,11 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「七つの海のティコ」
 * ![anime](images/anime.png) 「忍者戦隊カクレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と夢幻三剣士」
-
-### 7月 
-
 * ![internet](images/internet.png) Amazon
-
-### 11月
-
 * ![game](images/game.png) [セガサターン](https://ja.wikipedia.org/wiki/セガサターン) 発売
+* ![game](images/game.png) [PlayStation](https://ja.wikipedia.org/wiki/PlayStation) 発売
 
-### 12月
-
-* PlayStation
-
-## 1995年 - 平成7年
+## 1995年 - 平成7年 : 阪神淡路大震災発生
 
 * [Java](https://ja.wikipedia.org/wiki/Java) 誕生
 * [Ruby](https://ja.wikipedia.org/wiki/Ruby) 誕生
@@ -381,25 +370,9 @@ title: 南町通りレイディオ
 * ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part5 黄金の風）」連載開始
 * ![anime](images/anime.png) 「超力戦隊オーレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の創世日記」
-
-### 1月
-
-* 阪神淡路大震災発生
-
-### 6月
-
 * ![internet](images/internet.png) Personal Home Page Tools(後のPHP)
-
-### 7月
-
 * ![game](images/game.png) [バーチャルボーイ](https://ja.wikipedia.org/wiki/バーチャルボーイ) 発売
-
-### 8月
-
 * ![internet](images/internet.png) Internet Explorer
-
-### 11月
-
 * Windows 95 (8/24本日アメリカ発売日)
 
 ## 1996年 - 平成8年
@@ -413,17 +386,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「激走戦隊カーレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンティガ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と銀河超特急(エクスプレス)」
-
-### 4月
-
 * ![internet](images/internet.png) Yahoo Japan
-
-### 11月
-
-* ICQ
-
-### 12月
-
+* ![internet](images/internet.png) ICQ
 * ![internet](images/internet.png) CSS1勧告
 * Happy Hacking Keyboard
 
@@ -434,30 +398,12 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「電磁戦隊メガレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンダイナ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のねじ巻き都市(シティー)冒険記」(原作者遺作)
-
-### 1月
-
 * ![internet](images/internet.png) PostPet
-
-### 2月
-
 * ![internet](images/internet.png) 楽天
-
-### 8月
-
 * ![internet](images/internet.png) エキサイト
 * ![internet](images/internet.png) あめぞう
-
-### 9月
-
-* ウルティマオンライン
-
-### 10月
-
-* エイジ オブ エンパイア
-
-### 11月
-
+* ![game](images/game.png) ウルティマオンライン
+* ![game](images/game.png) エイジ オブ エンパイア
 * ![internet](images/internet.png) 世界最強の危険リンク集   (類似・時期不明)宇宙最強リンク集、日本海溝
 
 ## 1998年 - 平成10年
@@ -469,71 +415,28 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「ウルトラマンガイア」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の南海大冒険」
 * ![game](images/game.png) [ドリームキャスト](https://ja.wikipedia.org/wiki/ドリームキャスト) 発売
-
-### 3月
-
 * ![internet](images/internet.png) サイバーエージェント
-
-### 4月
-
 * ![internet](images/internet.png) Tripod
-
-### 6月
-
 * ![internet](images/internet.png) BM98
-
-### 7月
-
 * ![internet](images/internet.png) Windows 98
-
-### 9月
-
 * ![internet](images/internet.png) google
-
-### 11月
-
 * ![internet](images/internet.png) インフォシーク
-* ドリームキャスト
 
 ## 1999年 - 平成11年
 
 * ![anime](images/anime.png) 「救急戦隊ゴーゴーファイブ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙漂流記」
-
-### 1月
-
 * ![internet](images/internet.png) ろじっくぱらだいす
 * ![game](images/game.png) [PocketStation](https://ja.wikipedia.org/wiki/PocketStation) 発売
-
-### 2月
-
 * ![internet](images/internet.png) iモード
-
-### 3月
-
 * ![game](images/game.png) [ワンダースワン](https://ja.wikipedia.org/wiki/ワンダースワン) 発売
-
-### 5月
-
 * ![internet](images/internet.png) ナップスター
 * ![internet](images/internet.png) 2ch
-
-### 6月
-
 * ![internet](images/internet.png) Mixi
-
-### 7月
-
 * ![internet](images/internet.png) MSNメッセンジャー
 * ![game](images/game.png) [どこでもいっしょ](https://ja.wikipedia.org/wiki/どこでもいっしょ) 発売
-
-### 8月
-
 * ![internet](images/internet.png) ライブドア(→2002年 オン・ザ・エッヂ、ホリエモン)
-
-### 9月
-
-* エイジ オブ エンパイアII：エイジ オブ キング
+* ![game](images/game.png) エイジ オブ エンパイアII：エイジ オブ キング
 
 ---
 
@@ -546,23 +449,10 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「未来戦隊タイムレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の太陽王伝説」
 * ![game](images/game.png) [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2) 発売
-
-### 3月
-
-* PlayStation 2
-
-### 5月
-
 * ![internet](images/internet.png) HEXAGON(1999年かも)
-
-### 11月
-
-* ![internet](images/internet.png) 三上氏、テキスト系サイトをオープンする(11日)
-
-### 12月
-
+* ![internet](images/internet.png) 三上氏、テキスト系サイトをオープンする(11月)
 * WEB+DB Press
-* PSO
+* ![game](images/game.png) PSO
 
 ## 2001年 - 平成13年
 
@@ -572,30 +462,12 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「百獣戦隊ガオレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンコスモス」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と翼の勇者たち」
-
-### 1月
-
 * ![internet](images/internet.png) 侍魂
-
-### 2月
-
 * ![internet](images/internet.png) [ちゆ12歳](http://tiyu.to/) 
-
-### 3月
-
 * ![internet](images/internet.png) 先行者(By侍魂)
 * ![game](images/game.png) [ゲームボーイアドバンス](https://ja.wikipedia.org/wiki/ゲームボーイアドバンス) 発売
-
-### 7月
-
 * ![internet](images/internet.png) 探偵ファイル
-
-### 9月
-
 * ![game](images/game.png) [ニンテンドーゲームキューブ](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ) 発売
-
-### 10月
-
 * iPod
 
 ## 2002年 - 平成14年
@@ -603,18 +475,9 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダー龍騎」
 * ![anime](images/anime.png) 「忍風戦隊ハリケンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太とロボット王国(キングダム)」
-
-### 5月
-
 * ![internet](images/internet.png) Winny
-
-### 9月
-
-* Firefox
-* ファイナルファンタジーXI
-
-### 8月
-
+* ![internet](images/internet.png) Firefox
+* ![game](images/game.png) ファイナルファンタジーXI
 * 東方紅魔郷(Windows版東方Projectの第一弾)
 
 ## 2003年 - 平成15年
@@ -622,17 +485,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダー555」
 * ![anime](images/anime.png) 「爆竜戦隊アバレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太とふしぎ風使い」
-
-### 1月
-
 * Safari
-
-### 4月
-
 * ![internet](images/internet.png) セカンドライフ
-
-### 8月
-
 * ![internet](images/internet.png) マイスペース
 * Seasarプロジェクト
 
@@ -643,26 +497,11 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「特捜戦隊デカレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンネクサス」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のワンニャン時空伝」(テレ朝版初代声優最終作)
-
-### 2月
-
 * ![internet](images/internet.png) Facebook
-
-### 3月
-
 * ![internet](images/internet.png) 電車男
-
-### 4月
-
 * ![internet](images/internet.png) Yahoo!知恵袋
 * ![internet](images/internet.png) Gmail
-
-### 7月
-
 * Ruby on Rails
-
-### 12月
-
 * ![game](images/game.png) [ニンテンドーDS](https://ja.wikipedia.org/wiki/ニンテンドーDS) 発売
 * ![game](images/game.png) [PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable) 発売
 
@@ -672,13 +511,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダー響鬼」
 * ![anime](images/anime.png) 「魔法戦隊マジレンジャー」
 * ![anime](images/anime.png) 「ウルトラマンマックス」
-
-### 2月
-
 * ![internet](images/internet.png) Youtube
-
-### 8月
-
 * ![internet](images/internet.png) のまネコ問題
 * ![internet](images/internet.png) はてなブックマーク(β公開)
 
@@ -690,17 +523,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 映画ドラえもん「のび太の恐竜2006」(テレ朝版二代目声優第一作)
 * ![game](images/game.png) [Wii](https://ja.wikipedia.org/wiki/Wii) 発売
 * ![game](images/game.png) [PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3) 発売
-
-### 1月
-
 * jQuery
-
-### 7月
-
 * ![internet](images/internet.png) Twitter
-
-### 12月
-
 * ![internet](images/internet.png) ニコニコ動画
 
 ## 2007年 - 平成19年
@@ -709,28 +533,15 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダー電王」
 * ![anime](images/anime.png) 「獣拳戦隊ゲキレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の新魔界大冒険 〜7人の魔法使い〜」
-
-### 1月
-
 * iPhone
-
-### 9月
-
 * Silverlight
 
-## 2008年 - 平成20年
+## 2008年 - 平成20年 : リーマンショック
 
 * ![anime](images/anime.png) 世界名作劇場「ポルフィの長い旅」
 * ![anime](images/anime.png) 「仮面ライダーキバ」
 * ![anime](images/anime.png) 「炎神戦隊ゴーオンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と緑の巨人伝」
-
-### 9月
-
-* リーマンショック
-
-### 9月
-
 * Android
 * Google Chrome
 
@@ -749,26 +560,15 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダーオーズ/OOO」
 * ![anime](images/anime.png) 「天装戦隊ゴセイジャー」
 
-## 2011年 - 平成23年
+## 2011年 - 平成23年 : 東日本大震災発生
 
 * ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part8 ジョジョリオン）」連載開始
 * ![anime](images/anime.png) 「仮面ライダーフォーゼ」
 * ![anime](images/anime.png) 「海賊戦隊ゴーカイジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の人魚大海戦」
 * ![game](images/game.png) [PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita) 発売
-
-
-### 2月
-
 * ![game](images/game.png) [ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS) 発売
-
-### 3月
-
 * ![anime](images/anime.png) 映画ドラえもん「新・のび太と鉄人兵団 〜はばたけ 天使たち〜」
-* 東日本大震災発生
-
-### 6月
-
 * LINE
 
 ## 2012年 - 平成24年
@@ -785,16 +585,12 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「ガッチャマン クラウズ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のひみつ道具博物館(ミュージアム)」
 
-
 ## 2014年 - 平成26年
 
 * ![anime](images/anime.png) 「仮面ライダードライブ」
 * ![anime](images/anime.png) 「烈車戦隊トッキュウジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と奇跡の島 〜アニマル アドベンチャー〜」
 * ![anime](images/anime.png) 映画ドラえもん「新・のび太の大魔境 〜ペコと5人の探検隊〜」
-
-### 10月
-
 * HTML5勧告
 
 ## 2015年 - 平成27年
@@ -824,24 +620,19 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「怪盗戦隊ルパンレンジャー VS 警察戦隊パトレンジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宝島」
 
-## 2019年 - 令和元年
+## 2019年 - 令和元年 : 今上天皇即位
 
 * ![anime](images/anime.png) 「仮面ライダーゼロワン」
 * ![anime](images/anime.png) 「騎士竜戦隊リュウソウジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙英雄記(スペースヒーローズ)」
 * Splatoon Team KP結成(03/16)
-* 今上天皇即位
 * ![anime](images/anime.png) 映画ドラえもん「のび太の月面探査記」
 
 ---
 
-## 2020年 - 令和2年
+## 2020年 - 令和2年 : COVID-19 国内初感染者確認
 
 * ![anime](images/anime.png) 「仮面ライダーセイバー」
 * ![anime](images/anime.png) 「魔進戦隊キラメイジャー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の新恐竜」
-
-### 1月
-
-* COVID-19 国内初感染者確認
 
