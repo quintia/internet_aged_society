@@ -266,6 +266,7 @@ title: 南町通りレイディオ
 
 ## 1989年 - 平成元年 : 昭和天皇崩御
 
+* 消費税導入開始(4/1～ 3%)
 * DoGA [CGAコンテスト](https://ja.wikipedia.org/wiki/プロジェクトチームDoGA) 開催開始
 * ![anime](images/anime.png) 映画「機動警察パトレイバー the Movie」公開
 * ![game](images/game.png) [電脳学園](https://ja.wikipedia.org/wiki/電脳学園) 発売
@@ -400,6 +401,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 映画ドラえもん「のび太のねじ巻き都市(シティー)冒険記」(原作者遺作)
 * ![internet](images/internet.png) PostPet
 * ![internet](images/internet.png) 楽天
+* 消費税改正(4/1～ 3%→5%)
 * ![internet](images/internet.png) エキサイト
 * ![internet](images/internet.png) あめぞう
 * ![game](images/game.png) ウルティマオンライン
@@ -591,6 +593,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダードライブ」
 * ![anime](images/anime.png) 「烈車戦隊トッキュウジャー」
 * ![anime](images/anime.png) 映画ドラえもん「新・のび太の大魔境 〜ペコと5人の探検隊〜」
+* 消費税改正(4/1～ 5%→8%)
 * HTML5勧告
 
 ## 2015年 - 平成27年
@@ -627,8 +630,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「騎士竜戦隊リュウソウジャー」
 * Splatoon Team KP結成(03/16)
 * ![anime](images/anime.png) 映画ドラえもん「のび太の月面探査記」
-
----
+* 消費税改正(10/1～ 軽減税率対象外の品目について8%→10%)
 
 ## 2020年 - 令和2年 : COVID-19 国内初感染者確認
 
