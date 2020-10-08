@@ -559,16 +559,16 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダーオーズ/OOO」
 * ![anime](images/anime.png) 「天装戦隊ゴセイジャー」
+* ![anime](images/anime.png) 映画ドラえもん「のび太の人魚大海戦」
 
 ## 2011年 - 平成23年 : 東日本大震災発生
 
 * ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part8 ジョジョリオン）」連載開始
 * ![anime](images/anime.png) 「仮面ライダーフォーゼ」
 * ![anime](images/anime.png) 「海賊戦隊ゴーカイジャー」
-* ![anime](images/anime.png) 映画ドラえもん「のび太の人魚大海戦」
+* ![anime](images/anime.png) 映画ドラえもん「新・のび太と鉄人兵団 〜はばたけ 天使たち〜」
 * ![game](images/game.png) [PlayStation Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita) 発売
 * ![game](images/game.png) [ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS) 発売
-* ![anime](images/anime.png) 映画ドラえもん「新・のび太と鉄人兵団 〜はばたけ 天使たち〜」
 * LINE
 
 ## 2012年 - 平成24年
@@ -576,6 +576,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダーウィザード」
 * ![anime](images/anime.png) 「特命戦隊ゴーバスターズ」
 * ![game](images/game.png) [Wii U](https://ja.wikipedia.org/wiki/Wii_U) 発売
+* ![anime](images/anime.png) 映画ドラえもん「のび太と奇跡の島 〜アニマル アドベンチャー〜」
 
 ## 2013年 - 平成25年
 
@@ -589,7 +590,6 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダードライブ」
 * ![anime](images/anime.png) 「烈車戦隊トッキュウジャー」
-* ![anime](images/anime.png) 映画ドラえもん「のび太と奇跡の島 〜アニマル アドベンチャー〜」
 * ![anime](images/anime.png) 映画ドラえもん「新・のび太の大魔境 〜ペコと5人の探検隊〜」
 * HTML5勧告
 
@@ -599,6 +599,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダーゴースト」
 * ![anime](images/anime.png) 「手裏剣戦隊ニンニンジャー」
 * ![game](images/game.png) [スプラトゥーン](https://ja.wikipedia.org/wiki/スプラトゥーン) 発売
+* ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙英雄記(スペースヒーローズ)」
 
 ## 2016年 - 平成28年
 
@@ -624,7 +625,6 @@ title: 南町通りレイディオ
 
 * ![anime](images/anime.png) 「仮面ライダーゼロワン」
 * ![anime](images/anime.png) 「騎士竜戦隊リュウソウジャー」
-* ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙英雄記(スペースヒーローズ)」
 * Splatoon Team KP結成(03/16)
 * ![anime](images/anime.png) 映画ドラえもん「のび太の月面探査記」
 
