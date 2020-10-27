@@ -213,6 +213,7 @@ title: 南町通りレイディオ
 * ![manga](images/manga.png) 「パイナップルARMY」連載開始
 * ![manga](images/manga.png) 「シティハンター」連載開始
 * ![anime](images/anime.png) 「電撃戦隊チェンジマン」
+* ![anime](images/anime.png) 「巨獣特捜ジャスピオン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙小戦争(リトルスターウォーズ)」
 
 ## 1986年 - 昭和61年
@@ -227,6 +228,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「機動戦士ガンダムΖΖ」
 * ![manga](images/manga.png) 「聖闘士星矢」連載開始
 * ![anime](images/anime.png) 「超新星フラッシュマン」
+* ![anime](images/anime.png) 「時空戦士スピルバン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と鉄人兵団」
 
 ## 1987年 - 昭和62年
@@ -244,6 +246,7 @@ title: 南町通りレイディオ
 * ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part2 戦闘潮流）」連載開始
 * ![anime](images/anime.png) 「仮面ライダーBLACK」
 * ![anime](images/anime.png) 「光戦隊マスクマン」
+* ![anime](images/anime.png) 「超人機メタルダー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と竜の騎士」
 
 ## 1988年 - 昭和63年
@@ -262,6 +265,7 @@ title: 南町通りレイディオ
 * ![manga](images/manga.png) 「機動警察パトレイバー」連載開始
 * ![anime](images/anime.png) 「仮面ライダーBLACK RX」
 * ![anime](images/anime.png) 「超獣戦隊ライブマン」
+* ![anime](images/anime.png) 「世界忍者戦ジライヤ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のパラレル西遊記」
 
 ## 1989年 - 平成元年 : 昭和天皇崩御
@@ -281,6 +285,7 @@ title: 南町通りレイディオ
 * ![manga](images/manga.png) 「ベルセルク」連載開始
 * ![manga](images/manga.png) 「はじめの一歩」連載開始
 * ![anime](images/anime.png) 「高速戦隊ターボレンジャー」
+* ![anime](images/anime.png) 「機動刑事ジバン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の日本誕生」
 
 ---
@@ -300,6 +305,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「ふしぎの海のナディア」
 * ![manga](images/manga.png) 「うしおととら」連載開始
 * ![anime](images/anime.png) 「地球戦隊ファイブマン」
+* ![anime](images/anime.png) 「特警ウインスペクター」
 * ![anime](images/anime.png) 映画ドラえもん「のび太とアニマル惑星(プラネット)」
 
 ## 1991年 - 平成3年 : バブル崩壊
@@ -315,6 +321,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「トラップ一家物語」
 * ![anime](images/anime.png) 映画「機動戦士ガンダムF91」公開
 * ![anime](images/anime.png) 「鳥人戦隊ジェットマン」
+* ![anime](images/anime.png) 「特救指令ソルブレイン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のドラビアンナイト」
 
 ## 1992年 - 平成4年
@@ -325,6 +332,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 世界名作劇場「大草原の小さな天使ブッシュベイビー」
 * ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part4 ダイヤモンドは砕けない）」連載開始
 * ![anime](images/anime.png) 「恐竜戦隊ジュウレンジャー」
+* ![anime](images/anime.png) 「特捜エクシードラフト」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と雲の王国」
 
 ## 1993年 - 平成5年
@@ -339,6 +347,7 @@ title: 南町通りレイディオ
 * [Macromedia Shockwave Player](https://en.wikipedia.org/wiki/Adobe_Shockwave) リリース
 * ![anime](images/anime.png) 世界名作劇場「若草物語ナンとジョー先生」
 * ![anime](images/anime.png) 「五星戦隊ダイレンジャー」
+* ![anime](images/anime.png) 「特捜ロボ ジャンパーソン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太とブリキの迷宮(ラビリンス)」
 * [vim](https://ja.wikipedia.org/wiki/Vim) 2.0（Vi IMproved）公開
 
@@ -354,6 +363,7 @@ title: 南町通りレイディオ
 * ![internet](images/internet.png) Netscape Navigator
 * ![anime](images/anime.png) 世界名作劇場「七つの海のティコ」
 * ![anime](images/anime.png) 「忍者戦隊カクレンジャー」
+* ![anime](images/anime.png) 「ブルースワット」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と夢幻三剣士」
 * ![internet](images/internet.png) Amazon
 * ![game](images/game.png) [セガサターン](https://ja.wikipedia.org/wiki/セガサターン) 発売
@@ -370,6 +380,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「新世紀エヴァンゲリオン」
 * ![manga](images/manga.png) 「ジョジョの奇妙な冒険（Part5 黄金の風）」連載開始
 * ![anime](images/anime.png) 「超力戦隊オーレンジャー」
+* ![anime](images/anime.png) 「重甲ビーファイター」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の創世日記」
 * ![internet](images/internet.png) Personal Home Page Tools(後のPHP)
 * ![game](images/game.png) [バーチャルボーイ](https://ja.wikipedia.org/wiki/バーチャルボーイ) 発売
@@ -385,6 +396,7 @@ title: 南町通りレイディオ
 * Javaアプレット
 * ![anime](images/anime.png) 世界名作劇場「名犬ラッシー」
 * ![anime](images/anime.png) 「激走戦隊カーレンジャー」
+* ![anime](images/anime.png) 「ビーファイターカブト」
 * ![anime](images/anime.png) 「ウルトラマンティガ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と銀河超特急(エクスプレス)」
 * ![internet](images/internet.png) Yahoo Japan
@@ -397,6 +409,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [beatmania](https://ja.wikipedia.org/wiki/Beatmania) 稼働開始
 * ![anime](images/anime.png) 世界名作劇場「家なき子レミ」
 * ![anime](images/anime.png) 「電磁戦隊メガレンジャー」
+* ![anime](images/anime.png) 「ビーロボカブタック」
 * ![anime](images/anime.png) 「ウルトラマンダイナ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のねじ巻き都市(シティー)冒険記」(原作者遺作)
 * ![internet](images/internet.png) PostPet
@@ -414,6 +427,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [pop'n music](https://ja.wikipedia.org/wiki/Pop%27n_music) 稼働開始
 * ![game](images/game.png) [Dance Dance Revolution](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution) 稼働開始
 * ![anime](images/anime.png) 「星獣戦隊ギンガマン」
+* ![anime](images/anime.png) 「テツワン探偵ロボタック」
 * ![anime](images/anime.png) 「ウルトラマンガイア」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の南海大冒険」
 * ![game](images/game.png) [ドリームキャスト](https://ja.wikipedia.org/wiki/ドリームキャスト) 発売
