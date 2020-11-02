@@ -14,3 +14,5 @@
   誤認検挙された話
 * 第6回 https://www.youtube.com/watch?v=6EO0HuC_t2Y  
   ニンダイ 2020.9
+* 第7回 https://www.youtube.com/watch?v=r_hFweQmR9A  
+  東京ゲームショウ振り返り
