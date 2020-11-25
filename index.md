@@ -88,6 +88,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「ヤッターマン」
 * ![manga](images/manga.png) 「リングにかけろ」連載開始
 * ![anime](images/anime.png) 「ジャッカー電撃隊」
+* ![manga](images/manga.png) 「リトル巨人くん」コロコロコミック連載開始
 
 ## 1978年 - 昭和53年
 
@@ -108,6 +109,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「仮面ライダー（スカイライダー）」
 * ![anime](images/anime.png) 「バトルフィーバーJ」
 * ![anime](images/anime.png) 「ザ☆ウルトラマン」
+* ![manga](images/manga.png) 「ゲームセンターあらし」コロコロコミック連載開始
+* ![manga](images/manga.png) 「ザ・ゴリラ」コロコロコミック連載開始
 
 ---
 
@@ -124,6 +127,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「電子戦隊デンジマン」
 * ![anime](images/anime.png) 「ウルトラマン80」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の恐竜」
+* ![manga](images/manga.png) 「とどろけ!一番」コロコロコミック連載開始
 
 ## 1981年 - 昭和56年
 
@@ -139,6 +143,7 @@ title: 南町通りレイディオ
 * ![manga](images/manga.png) 「キャッツ・アイ」連載開始
 * ![anime](images/anime.png) 「太陽戦隊サンバルカン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙開拓史」
+* ![manga](images/manga.png) 「あばれ!隼」コロコロコミック連載開始
 
 ## 1982年 - 昭和57年
 
@@ -158,6 +163,10 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「大戦隊ゴーグルファイブ」
 * ![anime](images/anime.png) 「宇宙刑事ギャバン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の大魔境」
+* ![manga](images/manga.png) 「ゼロヨンQ太」コロコロコミック連載開始
+* ![manga](images/manga.png) 「プラモ狂四郎」コミックボンボン連載開始
+* ![manga](images/manga.png) 「ベムベムハンター」（のちに「ベムベムハンターこてんぐテン丸」に改題）コミックボンボン連載開始
+
 
 ## 1983年 - 昭和58年
 
@@ -181,6 +190,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「科学戦隊ダイナマン」
 * ![anime](images/anime.png) 「宇宙刑事シャリバン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の海底鬼岩城」
+* ![manga](images/manga.png) 「ラジコンボーイ」コロコロコミック連載開始
 
 ## 1984年 - 昭和59年
 
@@ -197,6 +207,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「超電子バイオマン」
 * ![anime](images/anime.png) 「宇宙刑事シャイダー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の魔界大冒険」
+* ![manga](images/manga.png) 「ドラゴン拳」コロコロコミック連載開始
+* ![manga](images/manga.png) 「がんばれ!キッカーズ」コロコロコミック連載開始
 
 ## 1985年 - 昭和60年
 
@@ -215,6 +227,11 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「電撃戦隊チェンジマン」
 * ![anime](images/anime.png) 「巨獣特捜ジャスピオン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の宇宙小戦争(リトルスターウォーズ)」
+* ![manga](images/manga.png) 「ファミコンロッキー」コロコロコミック連載開始
+* ![manga](images/manga.png) 「つるピカハゲ丸」コロコロコミック連載開始
+* ![manga](images/manga.png) 「機動戦士Ζガンダム」コミックボンボン連載開始
+* ![manga](images/manga.png) 「ファミコン風雲児」コミックボンボン連載開始
+* ![manga](images/manga.png) 「ファミ拳リュウ」コミックボンボン連載開始
 
 ## 1986年 - 昭和61年
 
@@ -230,6 +247,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「超新星フラッシュマン」
 * ![anime](images/anime.png) 「時空戦士スピルバン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と鉄人兵団」
+* ![manga](images/manga.png) 「あまいぞ!男吾」コロコロコミック連載開始
+* ![manga](images/manga.png) 「おぼっちゃまくん」コロコロコミック連載開始
 
 ## 1987年 - 昭和62年
 
@@ -248,6 +267,11 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「光戦隊マスクマン」
 * ![anime](images/anime.png) 「超人機メタルダー」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と竜の騎士」
+* ![manga](images/manga.png) 「ビックリマン」コロコロコミック連載開始
+* ![manga](images/manga.png) 「かっとばせ!キヨハラくん」コロコロコミック連載開始
+* ![manga](images/manga.png) 「ダッシュ!四駆郎」コロコロコミック連載開始
+* ![manga](images/manga.png) 「おもいっきり探偵団 覇悪怒組」コミックボンボン連載開始
+* ![manga](images/manga.png) 「爆笑戦士! SDガンダム」コミックボンボン連載開始
 
 ## 1988年 - 昭和63年
 
@@ -267,6 +291,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「超獣戦隊ライブマン」
 * ![anime](images/anime.png) 「世界忍者戦ジライヤ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のパラレル西遊記」
+* ![manga](images/manga.png) 「スーパーマリオブラザーズ3」コミックボンボン連載開始
 
 ## 1989年 - 平成元年 : 昭和天皇崩御
 
@@ -287,6 +312,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「高速戦隊ターボレンジャー」
 * ![anime](images/anime.png) 「機動刑事ジバン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太の日本誕生」
+* ![manga](images/manga.png) 「GO!GO!ミニ四ファイター」コロコロコミック連載開始
+* ![manga](images/manga.png) 「炎の闘球児 ドッジ弾平」コロコロコミック連載開始
 
 ---
 
@@ -307,6 +334,9 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「地球戦隊ファイブマン」
 * ![anime](images/anime.png) 「特警ウインスペクター」
 * ![anime](images/anime.png) 映画ドラえもん「のび太とアニマル惑星(プラネット)」
+* ![manga](images/manga.png) 「からくり剣豪伝ムサシロード」コロコロコミック連載開始
+* ![manga](images/manga.png) 「OH!MYコンブ」コミックボンボン連載開始
+* ![manga](images/manga.png) 「超機甲爆走ロボトライ」コミックボンボン連載開始
 
 ## 1991年 - 平成3年 : バブル崩壊
 
@@ -323,6 +353,9 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「鳥人戦隊ジェットマン」
 * ![anime](images/anime.png) 「特救指令ソルブレイン」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のドラビアンナイト」
+* ![manga](images/manga.png) 「スーパービックリマン」コロコロコミック連載開始
+* ![manga](images/manga.png) 「怪奇警察サイポリス」コロコロコミック連載開始
+* ![manga](images/manga.png) 「ゲンジ通信あげだま」コミックボンボン連載開始
 
 ## 1992年 - 平成4年
 
@@ -334,6 +367,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「恐竜戦隊ジュウレンジャー」
 * ![anime](images/anime.png) 「特捜エクシードラフト」
 * ![anime](images/anime.png) 映画ドラえもん「のび太と雲の王国」
+* ![manga](images/manga.png) 「バーコードファイター」コロコロコミック連載開始
 
 ## 1993年 - 平成5年
 
@@ -368,6 +402,7 @@ title: 南町通りレイディオ
 * ![internet](images/internet.png) Amazon
 * ![game](images/game.png) [セガサターン](https://ja.wikipedia.org/wiki/セガサターン) 発売
 * ![game](images/game.png) [PlayStation](https://ja.wikipedia.org/wiki/PlayStation) 発売
+* ![manga](images/manga.png) 「爆走兄弟レッツ&ゴー!!」コロコロコミック連載開始
 
 ## 1995年 - 平成7年 : 阪神淡路大震災発生
 
@@ -386,6 +421,8 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [バーチャルボーイ](https://ja.wikipedia.org/wiki/バーチャルボーイ) 発売
 * ![internet](images/internet.png) Internet Explorer
 * Windows 95 (8/24本日アメリカ発売日)
+* ![manga](images/manga.png) 「爆球連発!!スーパービーダマン」コロコロコミック連載開始
+* ![manga](images/manga.png) 「王ドロボウJING」コミックボンボン連載開始
 
 ## 1996年 - 平成8年
 
@@ -403,6 +440,8 @@ title: 南町通りレイディオ
 * ![internet](images/internet.png) ICQ
 * ![internet](images/internet.png) CSS1勧告
 * Happy Hacking Keyboard
+* ![manga](images/manga.png) 「ポケットモンスター」コロコロコミック連載開始
+* ![manga](images/manga.png) 「スーパーフィッシング グランダー武蔵」コロコロコミック連載開始
 
 ## 1997年 - 平成9年
 
@@ -453,6 +492,8 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [どこでもいっしょ](https://ja.wikipedia.org/wiki/どこでもいっしょ) 発売
 * ![internet](images/internet.png) ライブドア(→2002年 オン・ザ・エッヂ、ホリエモン)
 * ![game](images/game.png) エイジ オブ エンパイアII：エイジ オブ キング
+* ![manga](images/manga.png) 「デュエル・マスターズ」コロコロコミック連載開始
+* ![manga](images/manga.png) 「爆転シュート ベイブレード」コロコロコミック連載開始
 
 ---
 
@@ -485,6 +526,8 @@ title: 南町通りレイディオ
 * ![internet](images/internet.png) 探偵ファイル
 * ![game](images/game.png) [ニンテンドーゲームキューブ](https://ja.wikipedia.org/wiki/ニンテンドーゲームキューブ) 発売
 * iPod
+* ![manga](images/manga.png) 「コロッケ!」コロコロコミック連載開始
+* ![manga](images/manga.png) 「絶体絶命でんぢゃらすじーさん」コロコロコミック連載開始
 
 ## 2002年 - 平成14年
 
@@ -495,6 +538,7 @@ title: 南町通りレイディオ
 * ![internet](images/internet.png) Firefox
 * ![game](images/game.png) ファイナルファンタジーXI
 * 東方紅魔郷(Windows版東方Projectの第一弾)
+* ![manga](images/manga.png) 「デュエル・マスターズ」デュエル・マスターズを始める
 
 ## 2003年 - 平成15年
 
@@ -520,6 +564,7 @@ title: 南町通りレイディオ
 * Ruby on Rails
 * ![game](images/game.png) [ニンテンドーDS](https://ja.wikipedia.org/wiki/ニンテンドーDS) 発売
 * ![game](images/game.png) [PSP](https://ja.wikipedia.org/wiki/PlayStation_Portable) 発売
+* ![manga](images/manga.png) 「ケシカスくん」コロコロコミック連載開始
 
 ## 2005年 - 平成17年
 
@@ -560,6 +605,8 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 映画ドラえもん「のび太と緑の巨人伝」
 * Android
 * Google Chrome
+* ![manga](images/manga.png) 「イナズマイレブン」コロコロコミック連載開始
+* ![manga](images/manga.png) 「怪盗ジョーカー」コロコロコミック連載開始
 
 ## 2009年 - 平成21年
 
@@ -593,6 +640,7 @@ title: 南町通りレイディオ
 * ![anime](images/anime.png) 「特命戦隊ゴーバスターズ」
 * ![game](images/game.png) [Wii U](https://ja.wikipedia.org/wiki/Wii_U) 発売
 * ![anime](images/anime.png) 映画ドラえもん「のび太と奇跡の島 〜アニマル アドベンチャー〜」
+* ![manga](images/manga.png) 「ウソツキ!ゴクオーくん」コロコロコミック連載開始
 
 ## 2013年 - 平成25年
 
@@ -601,6 +649,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4) 発売
 * ![anime](images/anime.png) 「ガッチャマン クラウズ」
 * ![anime](images/anime.png) 映画ドラえもん「のび太のひみつ道具博物館(ミュージアム)」
+* ![manga](images/manga.png) 「フューチャーカード バディファイト」コロコロコミック連載開始
 
 ## 2014年 - 平成26年
 
