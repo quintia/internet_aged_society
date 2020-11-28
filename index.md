@@ -392,6 +392,7 @@ title: 南町通りレイディオ
 * ![game](images/game.png) [NINTENDO64](https://ja.wikipedia.org/wiki/NINTENDO64) 発売
 * [HTTP/1.0](https://ja.wikipedia.org/wiki/Hypertext_Transfer_Protocol#HTTP/0.9) 仕様公開
 * ![game](images/game.png) [ピピンアットマーク](https://ja.wikipedia.org/wiki/ピピンアットマーク) 発売
+* ![game](images/game.png) ポケットモンスター 赤・緑 発売
 * Flash 
 * Javaアプレット
 * ![anime](images/anime.png) 世界名作劇場「名犬ラッシー」
